@@ -1,0 +1,2373 @@
+================================================================================
+DOCUMENT: RFP_780.pdf  (33 pages)
+================================================================================
+
+--- Page 1 ---
+Request for Proposal (RFP)
+for
+Empanelment of
+Independent
+1.Sr. Road Safety Auditor &
+Team leader
+2. Road Safety Assistant
+for NHAI Projects
+National Highways Authority of India
+(Ministry of Road Transport & Highways)
+Government of India
+March 2026
+1
+
+--- Page 2 ---
+Contents
+NOTICE FOR EMPANELMENT OF SR. ROAD SAFETY AUDITOR & ROAD SAFETY ASSISTANT………….03
+GENERAL INFORMATION………………………………………………………………………………………………………………………05
+TERMS OF REFERENCE…………………………………………………………………………………………………………………12
+Methodology to be adopted by Safety Auditor……………………………………………………………………………..18
+Deliverables and Payment Schedule…………………………………………………………………………………………….23
+Appendix-A…………………………………………………………………………………………………………………………………..25
+ANNEXURE-I…………………………………………………………………………………………………………………………………….27
+ANNEXURE-II………………………………………………………………………………………………………………………………....29
+ANNEXURE-III…………………………………………………………………………………………………………………………….…..30
+ANNEXURE-IV…………………………………………………………………………………………………………………………….…..31
+ANNEXURE-V…………………………………………………………………………………………………………………………….…..32
+ANNEXURE-VI…………………………………………………………………………………………………………………………….….33
+2
+
+--- Page 3 ---
+Notice for Empanelment of “Sr. Road Safety Auditor & Team Leader” and “Road Safety
+Assistant”
+1. The National Highways Authority of India (NHAI or the “Authority”) invites
+applications from the interested “Sr. Road Safety Auditor & Team Leader” and “Road
+Safety Assistant” for Empanelment as Sr. Road Safety Auditor & Road Safety Assistant
+for carrying out road safety audit of the project highway in accordance with the
+safety requirements set forth in Schedule – L of the Model Concession Agreement
+(MCA) of the public private partnership (PPP)/ Hybrid Annuity Model (HAM) projects
+on Design, Build, Finance, Operate and Transfer (DBFOT) basis and Schedule – H of
+the Model Concession Agreement (MCA) of the Operation & Maintenance (OMT)/TOT
+projects and Clause 10.1 of model EPC Agreement along with any other provisions as
+stipulated in the above mentioned agreements.
+2. Interested Applicants before submitting the proposal shall mandatorily register
+themselves with the National Portal for Infrastructure Consultancy Firms & Key
+Personnel, i.e., ‘INFRACON’ at www.infracon.nic.in along with the credentials and
+CVs of Personnel uploaded on the INFRACON site. The copy of credentials of
+INFRACON CVs are to be included with the application.
+3. The applicant may download the documents for Empanelment of “Sr. Road Safety
+Auditor & Team Leader” and “Road Safety Assistant” from NHAI website, i.e.,
+https://www.nhai.gov.in. The applicant shall be required to submit, along with
+application form, a non-refundable fee of INR 5,000 (Rupees Five Thousand only) by
+way of online payment only (payment through other modes shall not be
+accepted), in favor of “National Highways Authority of India” in Current Account
+no. 8598201005819, IFSC – CNRB0008598 maintained with Canara Bank
+Extension, NHAI, Sector-10, Dwarka, New Delhi-110075, with payment remark of
+“Application Fee towards Empanelment of Sr. Road Safety Auditor & Team Leader
+and Road Safety Assistant” separately. The online payment receipt shall be
+submitted along with the submission of application form.
+4. NHAI shall not be responsible for any delay, loss or non-receipt of documents for
+Empanelment of “Sr. Road Safety Auditor & Team Leader” and “Road Safety
+Assistant” sent by post / courier. The application form can be submitted by hand at
+the office of NHAI, HQ Old Building, Plot No G-5&6, Sector-10, Dwarka, New Delhi-
+110075. Further, NHAI shall not be responsible for any delay in receiving the
+Applications and reserves the right to accept / reject any or all applications without
+assigning any reason thereof.
+5. The document for Empanelment of independent “Sr Road safety Auditor & Team
+Leader” and “Road Safety Assistant”, downloaded from NHAI Website, contains brief
+information about requirements and process regarding Empanelment.
+6. Further, Application can be downloaded from NHAI Website
+https://www.nhai.gov.in. and submitted (hardbound copy) by post/ Courier/ By
+Hand on or before scheduled date of submission with all pages numbered serially,
+along with an index of submission. Applicants are requested to submit the
+information exactly in the form or format prescribed in the document for
+Empanelment of “Sr. Road Safety Auditor & Team Leader” and “Road Safety
+Assistant”, failing which NHAI may evaluate the application to the best of its
+interpretation, the decision of the Authority shall be final and binding in this regard.
+In the event of any of the instructions mentioned herein have not been adhered to,
+NHAI will reject the Application. Applications submitted physically shall not be
+considered. Successful Applicants shall be asked to submit originals of all
+documents after declaration of preliminary evaluation results by the Authority.
+The status of Responsiveness and/or qualification done on basis of documents
+submitted along with applications and if required verification of the original
+documents can be undertaken.
+3
+
+--- Page 4 ---
+7. The submission of the Application for Empanelment of “Sr. Road Safety Auditor &
+Team Leader” and “Road Safety Assistant” may be made in the manner specified in
+the document, at the address given below on or before the due date and time of
+submission specified in the document on all working days.
+8. The Applicants once empaneled shall remain valid for five years or till such time they
+continue to satisfy the terms & conditions of this Empanelment and there is no
+material change from their respective Empanelment proposal, whichever is earlier.
+9. Applicant shall submit NOC from their current Employer/Firm for submitting their
+application.
+10. Applicant shall also give undertaking from their Employer/Firm that applicant will
+be available for conducting Road Safety Assignment whenever assigned by NHAI.
+11. Submission Schedule
+Date of invitation of Application 11.03.2026 (Proposed)
+Deadline for submission of Application 07.04.2026 (Proposed)
+(Due date and Time):
+N.B.: - This Empanelment of “Sr. Road Safety Auditor & Team Leader” and “Road
+Safety Assistant” is being carried out in accordance with the roster mechanism.
+All Applicants may apply for this Empanelment to be eligible for award of road
+safety audit work as independent “Sr. Road Safety Auditor & Team Leader” and
+“Road Safety Assistant” based on this selection process.
+General Manager (Tech.)
+Road Safety Division
+National Highways Authority of India
+G-5 & 6, Sector-10, Dwarka, New Delhi-110 075
+Tele: 011-25074100/200/extn.1512
+Email: arkale@nhai.org
+****
+4
+
+--- Page 5 ---
+NATIONAL HIGHWAYS AUTHORITY OF INDIA
+APPLICATION FOR EMPANELMENT OF “SR. ROAD SAFETY AUDITOR & TEAM
+LEADER” AND “ROAD SAFETY ASSISTANT” FOR NHAI PROJECTS
+General Information
+1. The Government of India has entrusted to the National Highways Authority of India
+(NHAI) the responsibility for the development, maintenance and management of
+about 77,358 km of National Highways including the task of ensuring road safety
+which is of paramount importance. The Government has directed NHAI for taking
+engineering measures to ensure the safety of road users on the National Highways.
+With this objective, NHAI intends to invite applications from the interested Personnel
+for Empanelment as Sr. Road Safety Auditor & Road Safety Assistant for carrying out
+safety audit of the project highways at various stages like Detailed Project Report
+Stage, Development/Design Stage, Construction stage, Pre-opening stage and
+Operation & Maintenance stage in accordance with the safety requirements set forth
+in Schedule – L of the Model Concession Agreement (MCA) of the PPP/HAM projects
+on Design, Build, Finance, Operate and Transfer (DBFOT) basis and Schedule – H of
+the Model Concession Agreement (MCA) of the Operation and Maintenance (OMT)/ TOT
+projects and Clause 10.1 of EPC Agreement, O&M Agreement & Item Rate contracts
+along with any other provisions as stipulated in the relevant agreements as per the
+roster to be prepared by NHAI after Empanelment.
+2. The PPP projects on DBFOT / HAM/ EPC basis basically constitute up-gradation
+involving construction of 2/4/6-lane highway including bridges and tunnels; widening
+and rehabilitation of bridges and culverts; construction of high embankment/
+elevated structures/ ROBs/RUBs/VUPs/LVUPs/PUPs/CUPs, wayside amenities etc.
+along the existing highways including provision of realignment and bypasses.
+Similarly, OMT projects constitute operation and maintenance of 2/4/6 – lane
+highway including bridges and tunnels. The construction works under such projects
+involve use of modern equipment and construction practices / techniques. As per
+the terms and conditions of the Concession Agreement(s), the Concessionaires are
+required to develop, implement and administer a surveillance and safety programme
+for providing a safe environment on or around the Project Highway and or comply
+with the safety requirements set forth in Schedule – L of DBFOT/ HAM Agreements
+and Clause 10.1.5 & 10.1.6 of EPC Agreement and Schedule – H of OMT/ TOT
+Agreement in development, construction, operation &maintenance phases of a
+Project. However, the safety audit work shall be carried out as per
+IRC/NHAI/MoRT&H guidelines.
+3. The personnel shall apply as an individual as a Sr. Road Safety Auditor or Road Safety
+Assistant.
+4. The personnel who have been debarred by MoRT&H or any of its implementing
+agencies including NHAI and the debarment is in force as on the date of application,
+need not apply as their application shall not be entertained.
+5. This RFP/ Empanelment document is neither an agreement nor an offer by the NHAI
+to the prospective applicants or any other person. The purpose of this is to provide
+interested personnel with information that may be useful to them in the formulation
+of their application. Each applicant should, therefore, conduct its own assessment
+5
+
+--- Page 6 ---
+about the assignment before submitting the application.
+6. Please note that:
+(i) The cost of preparing the application/proposal shall not be reimbursable as a
+direct cost of assignment; and
+(ii) NHAI is not bound to accept any of the application/proposal received by it and
+reserves the right to annul the selection process at any time prior to
+Empanelment, without assigning any reason thereof and shall not be liable for
+any expenditure incurred by the applicants.
+7. In order to avoid conflict of interest, any personnel associated with the
+Concessionaire/Contractor of any of the project highway as its Design Consultant and
+/ or Construction Supervision Consultant/Independent Engineer/Authority Engineer
+shall not be eligible to carry out road safety audit for the same project.
+8. Those personnel who were engaged by NHAI/MoRT&H for any project as Design
+Consultants for preparation of Detailed Project Reports or Supervision Independent
+Engineer or Consultant shall not be eligible for the same project, even after
+Empanelment.
+9. The personnel have an obligation to disclose any such situation factual or potential
+conflict that impacts their capacity to serve the best interest of NHAI, or that may
+reasonably be perceived as having this effect. Failure to disclose said situations may
+lead to disqualification/dis-empanelment of the personnel or the termination of its
+Contract and/ or any other action as deemed fit by NHAI at any stage.
+10. It is NHAI’s policy that the personnel observe the highest standard of ethics during
+the selection and execution of such contracts, if assigned work on the basis of roster
+prepared adopting random sampling after Empanelment. In pursuance of this policy,
+the NHAI:
+(a) Defines, for the purpose of this paragraph, the terms set forth below as follows:
+(i) “Corrupt practice” means the offering, giving, receiving, or soliciting,
+directly or indirectly, anything of value to influence the action of a public
+official in the selection process or in contract execution;
+(ii) “Fraudulent practice” means a misrepresentation or omission of facts in order
+to influence a selection process or the execution of a contract:
+(iii) “Collusive practices” means a scheme or arrangement between two or more
+consultants with or without the knowledge of the Client, designed to establish
+prices at artificial, non-competitive levels;
+(iv) “Coercive practices” means harming or threatening to harm, directly or
+indirectly, persons or their property to influence their participation in a
+procurement process, or affect the execution of a contract.
+(b) Will reject an application for Empanelment, if it determines that the
+personnel recommended for award has, directly or through an agent, engaged
+in corrupt, fraudulent, collusive or coercive practices in competing for the
+contract in question;
+(c) Will declare an applicant ineligible, either indefinitely or for a stated period of
+time to be empaneled if at any time it determines that the firm has engaged
+in corrupt or fraudulent practices in competing for, or in executing, a
+contract; and
+(d) Will have the right to include a provision requiring consultants to permit the
+6
+
+--- Page 7 ---
+NHAI to inspect their accounts and records relating to the performance of the
+contract and to have them audited by authorized representatives of NHAI.
+11. Applicant shall not be under a declaration of ineligibility for corrupt and fraudulent
+practices. Furthermore, the personnel shall be aware of the provisions on fraud and
+corruption as stated above.
+12. At any time before the submission of application, NHAI may for any reason, whether
+at its own initiative or in response to a clarification requested by personnel, modify
+the documents by amendment. Any amendment shall be issued as Addendum and
+would be hosted on NHAI Website/ e-tender portal, which will be binding on them.
+NHAI may at its discretion extend the deadline for submission of the proposal.
+13.1 The applicants shall not submit more than one application for the individual. The Name
+of bank, date of payment, transaction number etc. should be clearly visible in the receipt.
+The application form without proof of payment of application fee will be rejected without
+any intimation.
+13.2 Submission of application: An Applicant can submit only one application for the
+position listed at Para 15.1. The hard bound application form along with requisite
+enclosures are to be submitted by Post/ Courier/ By Hand on dispatch section following
+address on or before the date of submission of application:
+The General manager (Tech.)
+Road Safety Division
+National Highways Authority of India
+G-5 & 6, Sector-10, Dwarka, New Delhi-110 075
+Tele: 011-25074100/200/extn.1512
+Email: arkale@nhai.org
+a) An applicant shall download the form from NHAI website and prepare application
+duly filled as per RFP, complete in all respects.
+b) The applicant shall also enclose with application, details of payment.
+14. ACCESSING OF APPLICATION FORM FOR EMPANELMENT:
+To participate in the empaneling process, it is mandatory for the applicant:
+a. To apply in the prescribed application form only. The application form along with
+document can be downloaded from NHAI website https://www.nhai.gov.in.
+b. The application shall be submitted in English language and all correspondence shall
+be in the same language.
+c. Interested Applicants shall register themselves with the National Portal for
+Infrastructure Consultancy Firms & Key Personnel, i.e., ‘INFRACON’ at
+www.infracon.nic.in along with the credentials uploaded on the INFRACON site. The
+copy of INFRACON CVs is to be included with the application.
+d. Each page of the application form should be signed by the applicant. Application
+should be submitted online only with all pages sequentially numbered at the bottom
+right-hand corner of each page, e.g., by writing page 1 of 10 on page 1, if total pages
+are 10.
+e. The amendments/ clarifications related to the Empanelment, if any, will be hosted
+on the NHAI Website.
+7
+
+--- Page 8 ---
+f. NHAI shall not be responsible for any delay, damage, loss or non-submission of
+application before application due date. Incomplete applications shall be rejected
+without any intimation. Further, NHAI reserves the right to accept/ reject any or all
+applications without assigning any reason thereof.
+g. The applicants selected for Empanelment will be intimated by post/email and the
+same shall also be hosted on the website.
+h. Only empaneled applicants shall be allotted the work/assignment as per the roster
+prepared by NHAI and pursuant to the submission of requisite documents as annexed
+with the RFP. The payment of services of Safety Audit to be allotted will be on the
+basis of fixed rates. (Excluding GST) as per payment Schedule given in the RFP.
+15. Eligibility Requirement:
+15.1 The applicants should demonstrate experience in review of road/ bridge projects
+designs from safety consideration and conducting safety audits of on-going road projects/
+work zone safety audit/ Traffic Planning etc.
+Qualification and Competence of the applicant:
+(i) Sr. Road Safety Auditor-cum-Team Leader
+Essential Qualifications:
+a. Graduate in Civil Engineering from Recognized University.
+b. Minimum 10 years of experience (from the month of graduation) in highway sector
+in position associated with preparation of DPR/ Supervision/ Construction/
+Safety Audit/ Work Zone Safety / Traffic Planning of 2/4/6/8-lane
+Expressway/National Highway/State Highway projects.
+c. 15 days Road Safety Audit Training Certificate from IIT/NIT/CRRI/NATPAC
+(National Transportation Planning and Research Centre, Kerala) prior to
+12.01.2023 or IAHE;
+d. Have a minimum of three years practical experience in Road Safety Audit at
+DPR/Construction/Operation & Maintenance stage.
+e. Experience in at-least Five Road Safety Audits. At least Three of the Five
+Safety Audits must be at a design stage.
+f. The age shall not be more than 70 years.
+(ii) Road Safety Assistant
+Essential Qualifications:
+i. Graduate in Civil Engineering from recognized University.
+ii. Minimum experience of 2 years (from the month of graduation) in highway projects
+associated with preparation of DPR/ Supervision/ Construction/Safety
+audit/Work zone safety/Traffic Planning of 2/4/6/8 lane Expressway/National
+Highway/State highway projects.
+iii. 15 days Road Safety Audit Training Certificate from IIT/NIT/CRRI/NATPAC
+(National Transportation Planning and Research Centre, Kerala) prior to
+12.01.2023 or IAHE;
+iv. The age shall not be more than 35 years.
+15.2 The applicant shall furnish the following details
+A) For evaluation of CVs of Applicant for this Empanelment, copies of CVs as
+8
+
+--- Page 9 ---
+extracted from INFRACON website shall be submitted; CVs other than these shall
+not be evaluated. CVs extracted from INFRACON portal must be “VERIFIED” on or
+before date of submission of application. CVs shall also include all supporting
+documents. In absence of supporting documents, the Authority shall evaluate the
+application to the best of its interpretation. The decision of the Authority shall be
+final and binding in this regard. CVs must be duly signed by applicant.
+B) The applications not complying with the above-mentioned stipulations and
+found to be deficient in any respect shall be summarily rejected without any
+intimation.
+C) Applicants should note that only authenticated information should be provided
+in the application format. Information provided by the applicant will be
+verified and if any of the information provided by the applicant is found
+incorrect/false, then it may lead to rejection of application summarily at any
+stage even after empanelment or award of work. Applicants submitting
+false/incorrect information or suppressing the information shall be debarred
+from empanelment of NHAI for up to 2 (two) years and shall not be eligible to
+participate in empaneling in NHAI and MoRT&H or any of its implementing
+agencies including NHAI.
+D) Application should be submitted online only on e-tender portal
+https://etenders.gov.in (as per NHAI circular no. 9.1.11/2019 dated
+06.06.2019) with all pages sequentially numbered as mentioned. All pages of
+the application document shall be initialed by applicant. It should also have
+an index giving page wise information of above documents and strictly in
+sequence. Incomplete application shall be summarily rejected.
+E) The NHAI reserves the right to reject any application without assigning any
+reasons thereof. After evaluation and the approval of Competent Authority a
+panel of 2 Members having 1 no. Sr. Road Safety Auditor and 1 no. Road Safety
+Assistant will be formed who will be allotted the work on the basis of the roster
+prepared by random sampling for appointment of Sr. Road Safety Auditor &
+Road Safety Assistant for BOT (DBFOT) /HAM/ EPC/ OMT/TOT/O&M/Item Rate
+projects of NHAI as and when required.
+F) Notwithstanding the formation of these panels, the NHAI may go in for separate
+empanelment for specific assignments, if it so decides.
+G) The applicant shall not be considered for empanelment if the applicant is
+debarred/ blacklisted at the time of submission of the application in the NHAI.
+The applicant shall submit litigation history/undertaking on non-judicial stamp
+paper duly notarized, to the effect that the applicant has not been debarred
+or blacklisted by MoRT&H or any of its implementing agencies including NHAI
+or any other government agency.
+15.3 Test of Responsiveness
+Prior to evaluation of Applications, the Authority shall determine whether each
+Applicants application is responsive to the requirements of this RFP. An Application
+shall be considered responsive only if:
+9
+
+--- Page 10 ---
+a) it is received by the Application Due Date including any extension thereof;
+b) it is accompanied by the application fee receipt;
+c) it contains copies of applicant’s CV as extracted from INFRACON portal;
+d) CVs extracted from INFRACON portal must be “VERIFIED” on or before date of
+submission of Applications.
+e) 15 days Road Safety Audit Training Certificate from IIT/NIT/CRRI/NATPAC
+(National Transportation Planning and Research Centre, Kerala) for the
+applicants applying for each post prior to 12.01.2023 or IAHE;
+f) it contains CVs of applicants for “Sr. Road Safety Auditor & Team Leader” and
+“Road Safety Assistant” duly signed by the Applicant;
+g) it contains the proof of age of personnel are below the age as indicated in
+essential qualifications;
+h) It contains NOC from their current Employer/Firm for submitting their
+application.
+i) It contains undertaking from their Employer/Firm that applicant will be available for
+conducting Road Safety Assignment whenever assigned by NHAI.
+j) All the pages of the Application are signed by the applicant, & serially numbered;
+k) it contains all the information (complete in all respects) as requested in this RFP
+(in formats same as those specified);
+l) it does not contain any condition or qualification; and
+m) it is not non-responsive in terms hereof.
+16. Evaluation criteria: Only the responsive application shall be evaluated further for
+empanelment. The Evaluation criteria for empanelment of applicant shall be as
+follows:
+(i) Qualification and competence of Applicant:
+(A) Sr. Road Safety Auditor-cum-Team Leader
+Sl. No Sr. Road Safety Auditor-cum-Team Leader Road Safety Assistant
+1. Graduate in Civil Engineering Graduate in Civil
+from Recognized University Engineering from
+If yes Pass Recognized University
+If No Fail If yes Pass
+If No Fail
+2. 15 days Road Safety Audit 15 days Road Safety Audit
+Training Certificate from Training Certificate from
+IIT/NIT/CRRI/NATPAC prior to IIT/NIT/CRRI/NATPAC prior
+12.01.2023 or IAHE to 12.01.2023 or IAHE
+If yes Pass If yes Pass
+If No Fail If No Fail
+10
+
+--- Page 11 ---
+Sl. Sr. Road Safety Auditor-cum- Road Safety Assistant
+No Team Leader
+3 At least 10years of experience At least 2 years of
+(from the month of graduation) in Experience (from the
+highway sector in senior month of graduation) in
+position associated with highway sector in
+preparation of DPR / senior position
+Supervision / Construction / associated with
+Safety Audit / Work Zone preparation of DPR /
+Safety / Traffic Planning of Supervision /
+2/4/6/8 lane Construction / Safety
+Expressway/National Audit / Work Zone
+Highway/State Highway Safety / Traffic
+Projects Planning of 2/4/6/8
+If yes Pass lane
+If No Fail Expressway/National
+Highway/State Highway
+Projects
+If yes Pass
+If No Fail
+4 Have a minimum of three years Nil
+practical experience in Road
+Safety Audit at
+DPR/Construction/Operation &
+Maintenance stage …..Pass
+If no such experience of Three
+Years ……. Fail
+5 Experience in at-least Five Nil
+Road Safety Audits.
+If at least Five such
+project…………..Pass
+If no such experience of Five
+such projects … .Fail
+6 Experience in Three Safety Nil
+Audits at design stage
+If at least Three such project
+…………….Pass
+If no such experience of Three
+such projects ……..Fail
+7. The age as on the bid due date The age as on the bid
+of this empanelment shall not due date of this
+be more than 70 years. * empanelment shall not
+If age < 70 years Pass be more than 35 years.
+If age > 70 years Fail If age < 35 years
+Pass
+If age > 35 years
+Fail
+11
+
+--- Page 12 ---
+2.0 Terms of reference
+Empanelment of Independent “Sr. Road Safety Auditor & Team Leader” and “Road Safety
+Assistant” for Conducting Safety Audit of National Highways in various stages.
+The National Highways Authority of India (NHAI) has mandate for development, maintenance and
+management of National Highways entrusted to it and for matters connected therewith or
+incidental thereto. It invites application from certified road safety auditors for empanelment as
+Independent Senior Road Safety Auditor to conduct Safety Audit during Design, Construction and
+Operation stage of National Highways. The empanelment shall be for an initial period of five years
+which may be further extended based on the requirement of NHAI, and subject to satisfactory
+performance. Final shortlisting for empanelment shall be made based on interaction/interview
+of candidates possessing the requisite Qualification and Experience.
+2. Essential Qualifications
+2.1 Sr. Road Safety Auditor & Team leader
+i. Graduate in Civil Engineering from Recognized University.
+ii. Minimum 10 years of experience (from the month of graduation) in highway
+sector in position associated with preparation of DPR/ Supervision/
+Construction/ Safety Audit/ Work Zone Safety / Traffic Planning of 2/4/6/8-
+lane Expressway/National Highway/State Highway projects.
+iii. 15 days Road Safety Audit Training Certificate from IIT/NIT/CRRI/NATPAC
+(National Transportation Planning and Research Centre, Kerala) prior to
+12.01.2023 or IAHE.
+iv. Have a minimum of three years practical experience in Road Safety Audit at
+DPR/Construction/Operation & Maintenance stage.
+v. Experience in at-least Five Road Safety Audits. At least Three of the Five Safety
+Audits must be at a design stage.
+vi. The age shall not be more than 70 years.
+2.2 Road Safety Assistant
+i. Graduate in Civil Engineering from recognized University.
+ii. Minimum professional experience of 2 years (from the month of graduation) in
+highway projects associated with preparation of DPR/ Supervision/
+Construction/Safety audit/Work zone safety/Traffic Planning of 2/4/6/8 lane
+Expressway/National Highway/State highway projects.
+iii. 15 days Road Safety Audit Training Certificate from IIT/NIT/CRRI/NATPAC
+(National Transportation Planning and Research Centre, Kerala) prior to
+12.01.2023 or IAHE;
+iv. The age shall not be more than 35 years.
+3.0 Submission of Proposal for Empanelment
+The applicant shall furnish the following details:
+a. For evaluation of CVs of Applicant for this Empanelment, copies of CVs as extracted
+from INFRACON website shall be submitted; CVs other than these shall not be
+evaluated. CVs extracted from INFRACON portal must be “VERIFIED” on or before
+date of submission of application. CVs shall also include all supporting documents.
+In absence of supporting documents, the Authority shall evaluate the application to
+12
+
+--- Page 13 ---
+the best of its interpretation. The decision of the Authority shall be final and binding
+in this regard. CVs must be duly signed by personnel.
+b. The Applicant shall furnish its relevant experience strictly as per format given at
+Annexure I, II & III. The Applicant must supplement the experience claimed by
+furnishing the copies of work orders/ experience certificates from client, clearly
+indicating the project title, actual service provided by the applicant for the project
+claimed to have been executed.
+c. The Applicant shall furnish the Curriculum Vitae (CV) as per format given at
+Annexure-I. The CVs must be signed by Applicant on each and every page.
+Photograph of the Applicant shall be affixed on their respective CV. The contact
+address with telephone / mobile number, e-mail ID of the Applicant should also be
+furnished. The CVs must indicate the actual service provided by the applicant in
+detail.
+d. The applicant is also required to furnish duly notarized undertaking regarding
+correctness of information, non-debarment/blacklisting etc. on non-judicial stamp
+paper as per format given in Annexure-II.
+e. It is suggested that the applicant should fill up Annexure-I, vis-à-vis the supporting
+details vide Annexure I, II & III and any other information with due care so as to avoid
+any ambiguity.
+f. In case spaces available in the Annexure I, II & III are limited to accommodate all the
+information, separate sheets may be used for the purpose so that relevant
+information submitted are adequate, neat and legible.
+g. The applications not complying with the above-mentioned stipulations and found to
+be deficient in any respect shall be summarily rejected without any intimation.
+h. Applicant should note that only authenticated information should be provided in the
+prescribed format. If any of the information provided by the applicant is found
+incorrect/false, then it may lead to rejection of proposal summarily at any stage
+even after empanelment or award of work. Personnel submitting false/incorrect
+information or suppressing the information shall be debarred from empanelment of
+NHAI for up to 2 (two) years and shall not be eligible to participate in
+empaneling/bidding in any project of MoRT&H or any of its implementing agencies
+including NHAI.
+i. The NHAI reserves the right to reject any or all applications without assigning any
+reasons thereof. After evaluation, a panel of applicants will be formed who will be
+allotted the work on the basis of the roster prepared by random sampling for
+appointment of Independent Safety team for BOT (DBFOT) /HAM/ EPC/
+OMT/TOT/O&M/Item Rate projects of NHAI as and when necessary.
+j. Notwithstanding the formation of these panels, the NHAI may go in for separate
+empanelment for specific assignments, if it so decides.
+k. The applicant shall not be considered for empanelment if the applicant is debarred/
+blacklisted at the time of submission of the application in the NHAI. The applicant
+13
+
+--- Page 14 ---
+shall submit litigation history/undertaking on non-judicial stamp paper of Rs 100/-
+duly notarized, to the effect that the applicant has not been debarred or blacklisted
+by MoRTH or any of its implementing agencies including NHAI or any other
+government agency, at Annexure-III.
+4.0 Test of Responsiveness
+Prior to evaluation of Applications, the Authority shall determine whether each
+Application is responsive to the requirements. An Application shall be considered
+responsive only if:
+n) it is received by the Application Due Date including any extension thereof;
+o) it is accompanied by the application fee receipt;
+p) it contains copies of applicant’s CV as extracted from INFRACON portal;
+q) CVs extracted from INFRACON portal must be “VERIFIED” on or before date of
+submission of applications (Copy of print out from INFRACON portal must be
+enclosed along with the applications).
+r) 15 days Road Safety Audit Training Certificate from IIT/NIT/CRRI/NATPAC
+(National Transportation Planning and Research Centre, Kerala) for both Key
+personnel prior to 12.01.2023 or IAHE;
+s) it contains CVs of applicants for Sr. Road Safety Auditor & Road Safety Assistant
+duly signed by the Applicant;
+t) it contains the proof of age of personnel are below the age as indicated in
+essential qualifications;
+u) It contains NOC from their current Employer/Firm for submitting their
+application.
+v) It contains undertaking from their Employer/Firm that applicant will be available for
+conducting Road Safety Assignment whenever assigned by NHAI.
+w) All the pages of the Application are signed by the applicant, & serially numbered;
+x) it contains all the information (complete in all respects) as requested in this RFP
+(in formats same as those specified);
+y) it does not contain any condition or qualification; and
+z) it is not non-responsive in terms hereof
+5. Evaluation criteria: Only the responsive applications shall be evaluated further
+for empanelment An Applicant shall pass in all evaluation criteria to be
+considered for empanelment as under:
+a) Sr. Road Safety Auditor & Team Leader
+S. Item Evaluation
+No Yes/No
+1 General Qualification
+a) Educational Qualification& Training
+14
+
+--- Page 15 ---
+Graduate in Civil Engineering from Recognized University
+If yes ------------ Pass
+If No -------------- Fail
+15 days Road Safety Audit Training Certificate from
+IIT/NIT/CRRI/NATPAC prior to 12.01.2023 or IAHE
+If yes ------------ Pass
+If No -------------- Fail
+b) At least 10years of experience (from the month of graduation)
+in highway sector in senior position associated with
+preparation of DPR / Supervision / Construction / Safety Audit
+/ Work Zone Safety / Traffic Planning of 2/4/6/8 lane
+Expressway/National Highway/State Highway
+Projects/National Highway/State Highway Projects
+If yes ------------ Pass
+If No -------------- Fail
+2 Adequacy for the Project
+a) Three Years’ Experience in Road Safety Audit at
+DPR/Construction/Operation & Maintenance stage
+If at least Three Years’ experience in road safety
+audit…..Pass
+If no such experience of Three Years ……. Fail
+Experience in at-least Five Road Safety Audits.
+If at least Five such project…………..Pass
+If no such experience of Five such projects … .Fail
+Experience in Three Safety Audits at design stage
+If at least Three such project …………….Pass
+If no such experience of Three such projects ……..Fail
+3 The age as on the bid due date of this empanelment shall
+not be more than 70 years. *
+If age < 70 years --------------- Pass
+If age > 70 years --------------- Fail
+* It must be noted that the maximum age limit of Sr. Road Safety Auditor-cum-
+team Leader on the bid due date of empanelment process as well as on the
+date of safety consultancy work/assignment of any contract package is 70
+years.
+15
+
+--- Page 16 ---
+b) Road Safety Assistant
+S. Item Evaluation
+No Yes/No
+1 General Qualification
+a) Educational Qualification& Training
+Graduate in Civil Engineering from Recognized University
+If yes ------------ Pass
+If No -------------- Fail
+15 days Road Safety Audit Training Certificate from
+IIT/NIT/CRRI/NATPAC prior to 12.01.2023 or IAHE
+If yes ------------ Pass
+If No -------------- Fail
+b) At least 2years of Professional Experience (from the month of
+graduation) in highway projects associated with preparation of
+DPR / Supervision / Construction / Safety Audit / Work Zone
+Safety / Traffic Planning of 2/4/6/8 lane Expressway/National
+Highway/State Highway Projects
+If yes ------------ Pass
+If No -------------- Fail
+2 The age as on the bid due date of this empanelment shall not
+be more than 35 years. *
+If age < 35 years ---------------- Pass
+If age > 35 years ---------------- Fail
+* It must be noted that the maximum age limit of Road Safety Assistant on the
+bid due date of empanelment process as well as on the date of safety
+consultancy work/assignment of any contract package is 35 years.
+Note: Total Professional Experience of CVs shall be considered from the date of first
+employment of Applicant up to the date as per Employment Record. However, in case
+date of acquiring minimum educational qualification is after the date of first
+employment of key personnel, in such cases, total Professional Experience of CVs
+shall be considered from the date of acquiring minimum educational qualification.
+16
+
+--- Page 17 ---
+c) It is mandatory for all key personnel to have completed at least 15 days Road
+Safety Audit Training Certificate from IIT/NIT/CRRI/NATPAC (National
+Transportation Planning and Research Centre, Kerala) prior to 12.01.2023 or
+IAHE. The CV of the proposed Applicant not having completed minimum 15 days
+certification course shall not be evaluated.
+i. The applicant shall carry out self-responsiveness of their application with due
+cross reference to the above-mentioned criteria and submit the same along with
+the application.
+ii. The applicant shall carry out self-evaluation of their application with due cross
+reference to the above-mentioned criteria and submit the same along with the
+application
+1. Empanelment, Allotment, Report Submission and Performance Appraisal of Applicant
+1.1 National Highways Authority of India (NHAI) has mandate for development of National
+Highways entrusted to it by Ministry of Road Transport & Highways. As part of this
+endeavor, the Authority has taken up development of some of the highway projects
+implemented under PPP/HAM/EPC/OMT/TOT/ITEM Rate/InviT, etc.
+1.2 The Model Concession Agreements (MCA)/ Contract documents stipulate that the
+Concessionaire/Contractor shall develop, implement and administer a surveillance and
+safety programme for providing a safe environment on or about the Project Highways
+and/or shall comply with the safety requirements set forth in Schedules/ Clauses of the
+Concession/Contract Agreement in DPR, Development, Construction and Operation &
+Maintenance Phases of the Project.
+1.3 The Agreements also envisage that NHAI shall appoint an experienced and qualified Civil
+Engineer as a “Safety Auditor” for carrying out safety audit of the Project Highway in
+accordance with the safety requirements set forth in Schedules/ Clauses for the aforesaid
+Phases of Project.
+1.4 NHAI intends to invite independent Sr Road Safety Auditor & Team Leader and Road safety
+Assistant for carrying out safety audit of the project highway in accordance with the safety
+requirement set forth in IRC/NHAI/MoRT&H guidelines of projects of various modes such
+as PPP/HAM/EPC/OMT/TOT/ITEM Rate/InviT etc.
+1.5 Safety Auditor shall conduct capacity building/ safety awareness workshop as and when
+directed on the locations as specified by NHAI.
+1.6 Safety Auditor has to conduct site visit/inspection during audit of any stage of project
+i.e., DPR/Construction/O&M. All travelling, lodging & boarding and local conveyance
+shall be reimbursed by NHAI as follows:
+a. Sr. Road Safety Auditor-cum-Team Leader equivalent to General Manger, NHAI
+b. Road Safety Assistant equivalent to Dy. Manager, NHAI
+1.7 NHAI will formulate a team of two professionals on roaster basis i.e., “Sr Road Safety
+Auditor & Team Leader” and “Road Safety Assistant” for conducting safety audit of any
+stage of national highway.
+1.8 Sr Road Safety Auditor-cum- Team Leader shall be responsible for conducting safety audit
+and submission of reports. Road Safety Assistant shall support and undertake various
+activities as directed by Sr Road Safety Auditor-cum- Team Leader.
+17
+
+--- Page 18 ---
+1.9 PD, PIU to send request for appointment of Safety Audit Team with complete project
+details on dedicated email id roster_roadsafety@nhai.org with copy to concerned RO.
+1.10 Requests received up to last date of previous months will be considered for appointment
+of Safety Audit Team on First come First Basis from the roster of Sr. Road Safety Auditor
+& Road Safety Assistant.
+1.11 Letter for intent for project allotment on email for safety audit shall be issued by Road
+Safety Division, HQ
+1.12 Safety Auditors shall confirm their availability within 2 days from date of email by HQ
+along with safety audit schedule for undertaking site visit within one weeks.
+1.13 Letter to proceed for project safety audit shall be issued on email by Road Safety Division,
+HQ with a copy to concerned RO & PD.
+1.14 Project Report shall be submitted on Data Lake 3.0 and one hard copy each to PIU and
+RO.
+1.15 Sr. Road Safety Auditor & Road Safety Assistant will submit their invoice to the concerned
+PIU on submission of report.
+1.16 PD, PIU to issue completion of assignment within one week on submission of report to
+Safety Auditors with a copy to Road Safety Division.
+1.17 Next project will be assigned on receipt of completion certificate from PIU.
+1.18 It may be noted that the applicant shall be required to ensure timely completion of the
+safety audit assignment of the project awarded in an effective manner strictly as per RFP.
+The performance appraisal of the applicant shall be carried out by the Road Safety
+Division based on the safety audit report submitted and the comments of concerned
+Regional Officer and Project Director, NHAI. The applicant shall be liable for cancellation
+of empanelment and debarment in the event of default attributable to them for non-
+completion /poor performance of their services for a period up to 2 years for undertaking
+any assignment from MoRTH, NHAI and NHAIDCL.
+2. Methodology to be adopted by Safety Auditor
+The “Sr Road Safety Auditor & Team Leader” and “Road Safety Assistant” shall conduct
+the safety audits during DPR stage (Feasibility/Preliminary Design stage as well as
+at Detailed Design Stage), road design development, project construction
+implementation and operation/maintenance periods as per the methodology, check lists
+and procedures approved by NHAI. For this purpose, Sr. Road Safety Auditor-cum-Team
+Leader, will briefly submit Work Plan and Approach & Methodology for the proposed
+assignment, based on IRC: SP:88 and established International Procedure/Practice for
+undertaking road safety audit at various project stages such as DPR, development design,
+implementation and operation stages. The Road Safety Audit Reports shall be prepared
+as per the templates given in IRC: SP:88. The report shall also be uploaded on NHAI
+data lake portal or any other electronic media as prescribed by the Authority.
+3. During DPR Stage
+3.1 Carry out a Road Safety Audit (RSA) adhering to the relevant DPR stage Road Safety
+Audit as per latest IRC: SP:88 “Manual for Road Safety Audit” and good industry
+practices; and prepare Road Safety Audit Reports. The audit shall take into
+consideration all the aspects given in the checklist of latest IRC: SP:88 and other good
+international practices.
+18
+
+--- Page 19 ---
+All reports thereof (the “Safety Reports (DPR Design Stage)/Crash Analysis Report”) shall
+be submitted to the Project Director, NHAI, with a copy to the concerned Regional
+Officer.
+3.2 The Project Director will facilitate to provide accident data recorded in e-DAR/i-RAD
+accident module.
+3.3 The safety auditor will undertake Analysis of accident data with blackspot identification
+as per IRC 131 (Guidelines for identifying and treating blackspots) including mapping of
+chainage wise crashes on strip plan of NH. They shall Conduct Road safety Audit of
+Existing NH. They shall develop short term Counter measures, Cost Estimate and BOQ
+and submit a Crash Analysis cum Mitigation Report.
+3.4 Carryout RSA of Draft feasibility report, Draft DPR report & Technical Schedules as per
+relevant checklists of IRC: SP:88. The RSA Report for any following Stage should identify
+the previously recommended enhancements in the design and their incorporation. The
+RSA reports at the following stages should compare the changes that are duly
+incorporated in the design in reference to the recommendations from the previous
+stages. The RSA Reports at all stages should identify any further potential road safety
+gaps during the audit.
+3.5 The Project Director shall conduct the Audit Completion Meeting with Road Safety
+Auditor, DPR Consultant after each stage of audit with and recorded minutes for
+acceptance/compliance by DPR Consultant.
+3.6 Safety Audits shall be conducted on Datalake 3.0/ MobileApp. All Safety Audit Reports,
+Crash Analysis cum Mitigation Reports and MoM shall also be uploaded on NHAI data lake
+portal or any other electronic media as prescribed by the Authority.
+4. During Development Period of Construction Stage
+4.1 Road Safety Audit – Carry out a Road Safety Audit (RSA) adhering to the relevant RSA
+stage as per latest IRC: SP:88 “Manual for Road Safety Audit” and good industry practices;
+and prepare Road Safety Audit Report at the design development stage. The audit shall
+take into consideration all the aspects given in the checklist of latest IRC: SP:88. The
+report thereof, (the “Safety Report (Design Development Stage”/ Crash Analysis Report)
+shall be submitted to the Project Director and the Concerned Regional Officer.
+4.2 The Project Director shall facilitate 3 calendar years’ accident data from (e-Dar/i-RAD)
+or concerned police authorities to the safety Auditor. The safety auditor shall undertake
+Analysis of accident data with black spot identification as per IRC 131 (Guidelines for
+identifying and treating black spots) including mapping of chainage wise crashes on strip
+plan of NH. They shall submit Crash Analysis cum Mitigation Report evolving package of
+recommendations, short term measures and long-term measures as per design details
+and drawings submitted by Concessionaire/Contractor. The Project Director shall
+provide concessionaire/contractor’ design and duly consented drawings by IE/ approved
+drawings by AE to the Safety Auditor, one printed color copy and PDF copy containing
+the design details that have a bearing on safety of Users (the "Safety Drawings"). Such
+design details shall generally include horizontal and vertical alignments; sightlines;
+layouts of at- grade/grade separated intersections; interchanges; entry/exit ramps;
+19
+
+--- Page 20 ---
+road cross-section; bridges and culverts; drains proposal; provision for parked vehicles,
+slow moving vehicles (tractors, bullock carts, bicycles) and pedestrians; bus bays; truck
+lay-bys; lighting & Night time Proposals, ITS proposals, and other incidental or
+consequential information.
+4.3 The Safety Auditor shall conduct design stage safety audit of design proposals/drawings
+and submit Design Development Safety Report evolving a package of recommendations
+consisting of safety related measures for the Project.
+4.4 The Concessionaire shall endeavor to incorporate the recommendations of the Safety
+Report and long-term mitigation measures in the design of the Project, as may
+reasonably be required in accordance with Applicable Laws, Applicable Permits, Manuals
+and Guidelines of the Authority, Specifications and Standards, and Good Industry
+Practice. If the Concessionaire does not agree with any or all of such recommendations,
+it shall state the reasons thereof and convey them to the Authority forthwith. In the
+event that any or all of the works and services recommended in the Design Development
+Safety Report and long-term mitigation measures fall beyond the scope of Schedule-B,
+Schedule-C or Schedule-D, the Concessionaire/Contractor shall make a report thereon
+and submit to IE/AE for further directions from the Authority for funding such works as
+per Concession/ Contract agreement.
+4.5 The RSA Report for any following Stage should identify the previously recommended
+enhancements in the design and their incorporation. The RSA reports at the following
+stages should compare the changes that are duly incorporated in the design in reference
+to the recommendations from the previous stages. The RSA Reports at all stages should
+identify any further potential road safety gaps during the audit.
+4.6 The Road Safety Audit Report for development stage shall contain audit of proposed
+detailed design of the project highway including the audit of the Traffic Management
+Plan included in the design report (during the development stage audit) for the project
+road identifying enhancement that may be required.
+4.7 The Project Director shall conduct the Audit Completion Meeting with Road Safety Auditor,
+Concessionaire/Contractor, IE/AE after each stage of audit and record minutes for
+acceptance/compliance by Concessionaire/Contractor.
+4.8 Safety Audits shall be conducted on Date Lake 3.0/ MobileApp. All Safety Audit Reports,
+Crash Analysis cum Mitigation Reports and MoM shall also be uploaded on NHAI data lake
+portal or any other electronic media as prescribed by the Authority.
+5. During Construction Stage
+The audit during the construction stage shall be carried out in reference to the provisions
+made in IRC: SP:55 (Guidelines on Traffic Management in Work Zones) and following the
+latest IRC manual for road safety audit, i.e. IRC: SP:88 or any modifications thereof.
+The safety audit shall be conducted of brown field project sections, bypasses under
+construction and the existing roads (bypassed).
+5.1 Review the Construction Staging Plan prepared by the concessionaire in support of
+project implementation at stages. Examine the Traffic Management Plan (TMP)/ Traffic
+Control Plan (TCP) prepared and submitted by the Concessionaire/Contractor befitting
+to the Construction Staging Plans, and identify any gaps or opportunity for improvement
+20
+
+--- Page 21 ---
+prior to approval of the TMP/ TCP by relevant authority and accordingly prepare an
+Construction stage safety audit report for TMP/TCP as per the latest IRC: SP:88 (Manual
+for Road Safety Audit).
+5.2 The Project Director shall facilitate to provide accident data from (e-Dar/i-RAD) or
+concerned police authorities to the Sr Road Safety Auditor & Team Leader and Road
+Safety Assistant. The Sr Road Safety Auditor & Team Leader and Road Safety Assistant
+shall undertake Analysis of accident data at every four months. The accident analysis
+shall be carried out for the last 3 years with black spot identification as per IRC 131
+(Guidelines for identifying and treating black spots) including mapping of chainage wise
+crashes on strip plan of NH. They shall submit Crash Analysis cum Mitigation Report
+within 15 days of site visit evolving package of recommendations, short term/long term
+measures as required.
+Carryout a Construction Stage Road Safety Audit based on latest IRC: SP:88 to ensure
+correct implementation of the TMP and recommend any interim enhancement that may
+be required. Inspect the project highway keeping into consideration the construction
+staging plan for the project as prepared by the Concessionaire and identify the
+safety concerns/implications of the construction planning including TMP/TCP and
+recommend enhancement, as required. This shall be including the additional
+requirements at locations identified as accident-prone locations during “development
+period” based on the accident data analysis as well as the identified blackspots.
+5.3 The Project Director shall conduct the Audit Completion Meeting with Road Safety
+Auditor, Concessionaire/Contractor, IE/AE after each stage of audit with and recorded
+minutes for acceptance/compliance by RO/Concessionaire/Contractor.
+5.4 Safety Auditor shall submit the Road Safety Audit Report (Construction Stage), Road Safety
+Audit Report (Preopening/Completion), Crash Analysis cum Mitigation Report and Safety
+Audit Compliance Report (Construction Stage) to the Project Director with a copy to
+Regional Officer, within 15 (fifteen) days of audit as per the template given in IRC SP
+88.
+5.5 Safety Auditor shall also carryout Safety Audit of field compliance of Development Stage
+Safety Audit Report and previous submitted Road Safety Audit Report (Construction
+Stage) during subsequent Construction Stage Safety Audit. Safety Auditor shall prepare
+and submit Safety Audit Compliance Report (Construction Stage), the detailed status of
+compliance of audit recommendations of the development stage and any previous audit
+of construction stage. The scope for each of such inspection/audit shall include but not
+be limited to identifying any gaps in provision of safety features, as per the
+recommendations of audit at development stage and previous construction stage safety
+audits.
+5.6 At the stage of physical progress of 95-100% of construction (as will be suggested by
+Regional Officer/Project Director), the Safety Auditor shall conduct a Pre-
+Opening/Completion Stage Audit following the template given in IRC: SP:88. The Safety
+Auditor has to conduct once audit compliance field visit also as directed by the NHAI on
+submission of Pre-Opening/Completion audit compliance report by Independent
+Engineer/Authority Engineer/Concessionaire/Contractor to Project Director.
+5.7 The construction stage audit shall also include the specific requirements laid out
+in Attachment A of the TOR.
+21
+
+--- Page 22 ---
+5.9 All Safety Audits shall be conducted by Date Lake 3.0/NHAIONE Mobile App. All Road Safety
+Audit Report (Construction Stage), Preopening/Completion Audit Report, Crash Analysis
+cum Mitigation Report, Safety Audit Compliance Reports and MoM shall also be uploaded
+on NHAI data lake portal or any other electronic media as prescribed by the Authority.
+6 Maintenance and Operation Period
+The audit during the maintenance and operation stage shall be carried out as per the
+latest IRC manual for road safety audit, i.e., IRC: SP:88 or any modifications thereof.
+The safety audit shall also be conducted of development and the construction stage as
+required during maintenance and operation stage as per IRC: SP:55 (Guidelines on Traffic
+Management in Work Zones).
+The Safety Auditor shall carryout the Existing Road/Operation Stage Audit and
+Investigation of Accident-Prone Locations, which will involve the following activities,
+but not limited to:
+6.1 The Project Director shall facilitate to provide accident data either from (e-Dar/i-RAD)
+or from concerned police authorities, to the safety auditor. The accident analysis shall
+be carried out for the last 3 years with black spot identification as per IRC 131
+(Guidelines for identifying and treating black spots) including mapping of chainage wise
+crashes on strip plan of NH. They shall submit Crash Analysis cum Mitigation Report
+within 15 days of site visit evolving package of recommendations, short term/long term
+measures as required.
+6.2 Develop/Identify potential mitigation measures in order to curb the frequency and severity
+of collision. Specify short/long term remedial measures for improvement of notified
+blackspot.
+6.3 Submit cost estimate of short-term mitigation measures only.
+6.4 The Safety Auditor shall submit Road Safety Audit report (Operation & Maintenance
+Stage), Crash Analysis cum Mitigation Report, to the Project Director and, a copy to the
+concerned Regional Officer.
+6.5 T he Safety auditor address the comments, if any during the Audit Completion Meeting
+with recorded minutes for acceptance/compliance by NHAI / Independent/ Authority
+Engineer/ Concessionaire/ Contractor.
+6.6 All Safety Audits shall be conducted on Datalake 3.0/ MobileApp. All Safety Audit Reports,
+Crash Analysis cum Mitigation Reports, Safety Audit Compliance Reports and MoM shall
+also be uploaded on NHAI data lake portal or any other electronic media as prescribed
+by the Authority.
+22
+
+--- Page 23 ---
+7. Deliverable submission period: Within 15 days on completion of Road Safety Audit visit.
+8. Deliverables and Payment Schedule
+Fee Payable Schedule for Project Total Consultancy
+Length < 25 km Consultancy Fees for
+S. Report
+Fees for Project
+No Sr. Road Road Safety Secretarial Project Length
+Safety Assistant Assistance Length < 25
+greater
+Auditor- for report km
+than 25 km
+cum-Team preparation
+Leader payable to
+Sr. Road
+Safety
+Auditor-
+cum-Team
+Leader
+1 Submission of Crash 4 days 4 days Rs 10,000 Rs 1,30,000 Safety
+Analysis and Road (includes (includes per report team input
+Safety Inspection travel time, travel time, will
+Report including, site visit & site visit & increase in
+report report days as
+i. Analysis of
+preparation) preparation) required on
+accident data
+@ Rs 25,000 @ Rs 5,000 pro rata
+with blackspot
+per day per day basis and
+identification
+fee payable
+including
+will be
+mapping of
+calculated
+chainage wise
+as follows:
+crashes on strip
+Rs 1,30,000
+plan of NH.
++ (130000 x
+ii. Development of length
+Short-Term/ more than
+Long Term 25 km)/ 25
+mitigation
+measures
+iii. Cost Estimate
+and BOQ of
+Short-term
+measures
+2 Carryout Road Safety 4 days 4 days Rs 10,000 Rs 1,30,000 Safety
+Audit of DPR and (includes (includes per report team input
+furnish the Safety Audit travel time, travel time, will
+Report site visit & site visit & increase in
+23
+
+--- Page 24 ---
+3 Carryout Road Safety report report days as
+Audit during preparation) preparation) required on
+construction stage and @ Rs 25,000 @ Rs 5,000 pro rata
+furnish the Safety Audit
+p er day p er day
+basis and
+Report fee payable
+will be
+4 Carryout Road Safety
+calculated
+Audit during Operation
+as follows:
+& Maintenance stage
+Rs 1,30,000
+and furnish the Safety
++ (130000 x
+Audit Report
+length
+more than
+25 km)/ 25
+5 Conducting Safety 2 days @ Rs 2 days @ Rs 10,000 Rs 70,000 Rs 70,000
+workshop 25,000 per 5,000 per per report
+day day
+i. All travelling, lodging & boarding and local conveyance shall be reimbursed by NHAI on
+submission of proof of expenses as follows:
+a) Sr. Road Safety Auditor-cum-Team Leader equivalent to General Manger, NHAI
+b) Road Safety Assistant equivalent to Dy. Manager, NHAI
+ii. Sr. Road Safety Auditor-cum-Team Leader and Road Safety Assistant shall raise their
+invoices independently (invoice of Road Safety Assistant is duly verified by Team Leader) to
+the concerned PD, PIU on submission of report.
+iii. Fee payable shall be excluding GST. GST will be paid as appliable on submission of proof of
+GST deposition with concerned authorities.
+iv. Payments shall be made by PIU in Indian Rupees, no later than 45 days on submission of
+invoices Including submission of deliverables/report.
+24
+
+--- Page 25 ---
+Appendix A
+WORK ZONE SAFETY AUDIT
+Review Contractual Provisions and Establish Work zone Safety Audit Procedure
+Review and understand various safety provisions as provided in the contract documents of the
+particular projects. This should include an appreciation and understanding of the safety
+provisions as given in various acts, rules and regulations of GoI/State Government where project
+is situated including MoRTH/Indian Roads Congress (IRC) specifications/codes; safety
+instructions issued by NHAI from time to time; and safety provisions under the EMP(s) for the
+project.
+(i) Review the existing systems being followed/adopted by the Concessionaire and IEs in
+planning, execution, documentations and reporting through collection and assessment
+of primary and secondary data/information.
+(ii) Identify the major hazards and risks associated with various roads construction activities
+and establish a work zone safety audit procedure, satisfactory to NHAI.
+Task B: Conduct detailed Work Zone Safety Audit and Recommend Remedial Actions
+(i) Carry out a detailed assessment of worksite* safety conditions through site visits in line
+with the identified risks and hazards associated with various road construction activities.
+This review and assessment must include, but may not be limited, to the following
+aspects pertaining to:
+(a) Traffic Management Plan: The Safety Audit Team will review the relevance, adequacy
+and implementation of the Traffic Management Plan(s) prepared by the Contractors. The
+procedures followed by the Independent Engineer (IE) / Authority Engineer (AE) with
+regard to the approval and ensuring compliance on ground also need to be reviewed.
+(b) Traffic Safety Measures: The review should assess the adequacy and quality of various
+safety measures such as signage, delineation, barricading and lighting in the
+construction zones in line with the provisions covered in the contract agreement and
+latest IRC guidelines and other good international practices. The assessment should
+include various safety aspects/issues pertaining to night time safety measures and safety
+at/near excavations, structure construction sites, diversions and settlement areas apart
+from assessing maintenance of existing road surface and riding quality at
+diversions/detours.
+(c) Worker’s Safety: Based on contractual provisions and applicable legal provisions, the
+review should cover aspects pertaining to provisions and use of Personal Protective
+Equipment such as helmets, masks, safety harness/belts, boots, gloves, eye and hearing
+protection devices. The assessment should also include review of safety provisions
+during operations such as loading and unloading of materials; bar bending and cutting;
+gas cutting/welding, pile driving, excavation work; working near equipment/machinery;
+working at heights (including aspects pertaining to ladder, scaffolding, working
+platform, railing safety); safety during concrete works (including reinforcement
+erection, formwork and concrete pouring/pumping); drilling and blasting; safety during
+placement of traffic control devices; tree cutting etc. The compliance with regard to
+25
+
+--- Page 26 ---
+occupational health and safety precautions in relation to hazards associated with dust,
+toxic fumes, noise, vibration and biological factors (snake and insect bites) should also
+be assessed.
+(d) Safety during construction of structures including design and suitability of temporary
+structural arrangements, structures construction methodologies, etc. Adequacy of
+the process of review and approval of the Concessionaire proposals with respect to
+structures construction methodology (ies) including design of temporary structures and
+erection arrangements by the IE/AE also to be reviewed.
+(e) Fire Safety Practices: The assessment should include (a) the risks and hazards
+associated with storage, transportation, handling and use of various inflammable
+materials/explosives and (b) precautions and preparedness in case of the fire accident/s
+at camp/s, plant sites, construction sites and quarries.
+(f) Electrical Safety Practices: This should include electrical safety review at plant sites,
+camp sites and work sites and near habitations.
+(g) Mechanical Safety Practices: The review should include general safety
+precautions/practices during plant, machinery, equipment and vehicle operations and
+condition of such mechanical devices that are being used for the contract operations.
+This will include review of the fitness of various plant and machinery (static and mobile),
+practices with respect to periodic maintenance and licensing/certification of fitness of
+equipment, as well as suitability of machinery operators including practices with respect
+to adherence to license /certification/ formal training of operators.
+(h) Dust Control and Suppression Arrangements.
+(i) Storage, transportation, handling and use of various toxic and hazardous materials
+(including spill management) used in road construction.
+(j) Safety of road-side residents and passers-by.
+(k) First aid: The review should include the provision of the first aid arrangements (including
+life-saving equipment), availability of qualified staff and health checks-up of workers
+(such as those for drivers/operators), as specified under the regulatory framework.
+(l) Emergency Response Arrangements: The review should include an assessment with
+regards to planning, procedures/processes, warning systems and record keeping.
+(m) Accident records: The review should look at whether accident records are being
+maintained by the Concessionaires/Contractors and shared with the NHAI on a regular
+basis.
+(n) Housekeeping (including circulation pattern, storage of materials and disposal of
+hazardous wastes).
+Any other
+26
+
+--- Page 27 ---
+Annexure-I
+CURRICULUM VITAE (CV) OF KEY PERSONNEL
+1. Proposed Position: ______________
+2. Name of Applicant ______________ Recent Photograph
+3. Infracon ID:
+4. Date of Birth: (please enclose matriculation certificate
+as proof)
+5. Nationality:
+6. Correspondence Address:
+7. Email ID and Mobile Number:
+8. Educational Qualification:
+Sr.no Examination Board/University Year of Percentage
+Passed Passing Marks/Score
+1 10th
+2 12th
+3 Graduation
+4 Any Other
+Additional
+Qualification
+Note- Applicant may add additional information, if required, in above format on
+separate sheet.
+9. Work experience details
+Sr.No. Name of Type of Project Position Held Name of Duration/Y
+Project (DPR/Constructi Client/Emp ear
+on/O&M) loyer
+(PIU/RO/et
+c.)
+10. Details of Road Safety Auditor course (15 days):
+Sr.no Name of Course Duration of Course Name of Institute
+(Date)
+27
+
+--- Page 28 ---
+11. Published papers on Road Safety: -
+Note: Applicant must enclose Road Safety Auditor certification course certificate
+issued by Institute which may be verified by NHAI from its issuer.
+UNDERTAKING FROM THE PERSONNEL
+I, the undersigned, (Name and Address) undertake that this CV correctly describes
+myself, my qualification and my experience and NHAI would be at liberty to debar
+me if any information given in the CV, in particular the Summary of Qualification &
+Experience vis-à-vis the requirements as per documents found incorrect. I further
+undertake that I have neither been debarred by NHAI nor left any assignment with
+the consultants engaged by NHAI / contracting firm for any continuing work of
+NHAI without completing my assignment. I will be available to undertake the safety
+audit assignments. If I leave any assignment in the middle of the Safety Audit work,
+NHAI would be at liberty to debar me from taking any assignment in any of the
+NHAI works for an appropriate period of time to be decided by NHAI. I have no
+objection if my services are extended by NHAI for this work in future.
+Signature of the Applicant
+Place
+Date
+Note:
+i) Personnel is to affix his recent photograph on 1st page of CV.
+ii) Complete Address and Phone/ Mobile Number of the Personnel is to be provided.
+iii) Document for proof of age is to be enclosed.
+iv) Documents for proof of qualifications shall be as uploaded in INFRACON.
+v) Age of personnel shall not be more than as specified.
+vii) Each page of the CV shall be signed in blue ink by personnel before submitting.
+viii) The NHAI may verify the details mentioned in CV by writing to the Employer
+indicated in the CV. The personnel shall be liable for debarment for any incorrect
+information.
+28
+
+--- Page 29 ---
+ANNEXURE: II
+Undertaking regarding Correctness of Information, Non-Debarment/ Blacklisting etc.by
+the Applicant
+(TO BE FURNISHED ON RS. 100/-NON-JUDICIAL STAMP PAPER DULY NOTARISED).
+Sub.: Empanelment of Independent “Sr. Road Safety Auditors & Team Leader” and “Road Safety Assistant” -
+Undertaking - Reg.
+Ref: No.
+Dear Sir,
+1. I, have examined the empanelment document for the aforesaid work and understood its
+contents, hereby submit my Application for empanelment of “Sr. Road Safety Auditors and
+Team Leader” and “Road Safety Assistant” for NHAI Projects.
+2. The Application is unconditional and unqualified.
+3. All information provided in the application, appendices and annexures is true and correct
+and all documents accompanying such application are true copies of their respective
+originals.
+4. I acknowledge the right of the NHAI to reject my application without assigning any reason or
+otherwise and hereby waive my right to challenge the same on any account whatsoever.
+5. I certify that in the last three years, I have neither failed to perform on any contract,
+as evidenced by imposition of a penalty or a judicial pronouncement or arbitration award,
+nor had been expelled from any project or contract nor had any contract terminated for
+breach on our part.
+6. I agree and undertake to abide by all the terms and conditions of the empanelment
+document.
+Yours faithfully,
+Date:
+Place:
+(Name & Signature)
+29
+
+--- Page 30 ---
+ANNEXURE: III
+Acceptance/ Undertaking by Applicant
+Dear Sir,
+I, the undersigned, ________________, s/o _______________________, r/o ___________________,
+undertake that my CV as provided in Annexure I, correctly describes myself, my qualifications and my
+experience. National Highways Authority of India would be at liberty to debar me if any information given
+in the CV, in particular the Summary of Qualification & Experience vis-à-vis the requirements as per TOR is
+found incorrect.
+I further undertake that I have neither been debarred by MoRTH or any of its implementing agencies including
+NHAI nor left any assignment with the consultants engaged by National Highways Authority of India / MoRT&H
+for any continuing work of National Highways Authority of India / MoRT&H without completing assignment.
+I will be available for “Services of Road Safety Audit” as “Sr. Road Safety Auditor & Team Leader” and “Road
+Safety Assistant”.
+(Signature)
+Date: __________
+30
+
+--- Page 31 ---
+Annexure-IV
+No. Date:
+Letter Of Award (LOA)
+To
+Name, Address
+Sub: Road Safety Audit work for …………………(Project Name). -Acceptance for appointment as “Sr. Road Safety Auditor & Team Leader” and
+“Road Safety Assistant”.
+Sir / Madam,
+This is to notify you that you as Sr. Road Safety Auditor & Team Leader/ Road Safety Assistant have been appointed for execution of
+Road safety audit of the subject project as per the roster prepared by NHAI, on the schedule rate as mentioned in RFP for your empanelment, for
+conducting road safety audit for the aforesaid project.
+2. You are requested to submit duly signed acceptance letter as per Annexure-III within the 3 days period from the issue of this LOA.
+3. It is intimated that roster mechanism is envisaged to award project wise safety audit.
+This issues with the approval of the Competent Authority.
+(______________)
+GM (Tech.),
+Road Safety Division
+Copy to: -
+1. The CGM (Tech), Road Safety Division, NHAI HQ
+2. Concern Regional Officer, NHAI
+3. Concern Project Director, NHAI
+31
+
+--- Page 32 ---
+Annexure-V
+Acceptance Letter
+Sub: Road Safety Audit work for …………………(Project Name). -Acceptance for appointment as “Sr.
+Road Safety Auditor & Team Leader” and “Road Safety Assistant”.
+Dear Sir,
+With reference to your letter dated *****, I having examined the document and understood its
+contents, hereby submit my acceptance for appointment as “Sr. Road Safety Auditor & Team Leader” and
+“Road Safety Assistant” for aforesaid Project.
+1 All information provided in the, Appendices and Annexure are true and correct and all documents
+accompanying such Application are true copies of their respective originals.
+2 I acknowledge the right of the Authority to reject our acceptance without assigning any reason or
+otherwise and hereby waive our right to challenge the same on any account whatsoever.
+3 I certify that in the last three years, I have neither failed to perform on any contract, as evidenced
+by imposition of a penalty or a judicial pronouncement or arbitration award, nor been expelled from any
+project or contract nor have had any contract terminated for breach on my part.
+5. I agree and undertake to abide by all the terms and conditions of the RFP of empanelment. In witness
+thereof, I submit this acceptance under and in accordance with the terms of RFP of empanelment.
+6. I undertake that in executing the above contract, I will strictly observe the laws against fraud and
+corruption in force in India namely “Prevention of Corruption Act 1988”and amended from time to time.
+Yours faithfully,
+Date:
+Place:
+(Signature)
+(Name)
+32
+
+--- Page 33 ---
+Annexure-VI
+File No Dated:
+Letter To Proceed
+[Name of selected empaneled “Sr Road safety auditor & Team Leader” and “Road Safety Assistant”]
+Address:
+Sub: [project description]- Letter to Proceed - reg.
+Ref.: (i) NHAI/RSA/ROSTER/APPOINTMENT/2026/-- - E -office dated………..
+(ii) LOA dated -----------.
+(iii) Your acceptance letter dated……………
+Sir/Madam,
+Consequent upon Letter of Award issued by this office and your acceptance letter under reference,
+you are hereby notified to commence the services of Road Safety Audit within 7 days from issue of this letter
+with intimation to the concerned RO/PD.
+The safety audit report along with all enclosures such as drawings, BOQ etc. shall be uploaded on
+NHAI Data Lake and one printed copy shall be submitted to the concerned PD.
+It may be noted that the applicant shall be required to ensure timely completion of the safety audit
+assignment of the project awarded in an effective manner strictly as per RFP. The performance appraisal of
+the applicant shall be carried out by the Road Safety Division based on the safety audit report submitted
+and the comments of concerned Regional Officer and Project Director, NHAI. The applicant shall be liable
+for cancellation of empanelment and debarment in the event of default attributable to them for non-
+completion /poor performance of their services for a period up to 2 years for undertaking any assignment
+from MoRTH, NHAI and NHAIDCL
+GM(T)
+Road Safety Division
+Copy to:
+(i) CGM (T), Road Safety Cell, NHAI – HQ
+(ii) Concerned PD-NHAI
+(iii) Concern RO-NHAI
+33
+================================================================================
+DOCUMENT: Corrigendum--I.pdf  (9 pages)
+================================================================================
+
+--- Page 1 ---
+NHAI/RSD/Empanelment/ (E- 304032) 27.03.2026
+Corrigendum-1
+Sub.: Empanelment of Independent “Sr. Road Safety Auditor & Team Leader” and “Road
+Safety Assistant” - Corrigendum-I reg.
+The following amendments have been issued in the RFP for the Notice for
+Empanelment of Independent “Sr. Road Safety Auditor & Team Leader” and “Road Safety
+Assistant” uploaded on NHAI website on 09.03.2026.
+Sr. no. Refer In place of Read As
+1 Notice for Empanelment Interested “Sr. Road Safety Auditor & Interested applicant for Empanelment
+at page No. 3: Team Leader” and “Road Safety as “Sr. Road Safety Auditor & Team
+Para 1, line 2 Assistant” for Empanelment as Sr. Road Leader” and “Road Safety Assistant”.
+Safety Auditor & Road Safety Assistant.
+2 Notice for Empanelment Sr. Road Safety Auditor & Team Leader “Sr. Road Safety Auditor & Team
+at page No. 3: and Road Safety Assistant” Leader” and “Road Safety Assistant”
+Para 3, line 9 & 10
+3 Notice for Empanelment The online payment receipt shall be The copy of online payment receipt
+at Page No. 3: submitted along with the submission of mentioning reference number/UTR
+Para 3, line 10 & 11 application form. number shall be submitted along with
+the application form.
+4 Notice for Empanelment Applications submitted physically shall Deleted
+at Page No. 3: not be considered.
+Para 6, line 10
+5 Notice for Empanelment, Applicant shall submit NOC from their Applicant shall submit NOC from
+at Page No. 4: current Employer/Firm for submitting his/her current Employer/Firm for
+Para 9 their application. submitting his/her application.
+6 Notice for Empanelment, Applicant shall also give undertaking Applicant shall also give undertaking
+at Page No. 4: from their Employer/Firm that from his/her Employer/Firm that
+Para 10 applicant will applicant will
+be available for conducting Road Safety be available for conducting Road
+Assignment whenever assigned by Safety Audit Assignment, whenever
+NHAI. assigned by NHAI.
+7 Notice for Empanelment, Date of 11.03.2026 Date of 11.03.2026
+submission Schedule at invitation of (Proposed) invitation of
+Page No. 4: Application Application
+Para 11 Deadline for 07.04.2026 Deadline for 07.04.2026 up
+submission of (Proposed) submission of to 18:00 Hrs
+Application Application
+(Due date and (Due date and
+Time) Time)
+8 General Information at Sr. Road Safety Auditor & Road Safety “Sr. Road Safety Auditor & Team
+Page No. 5: Assistant Leader” and “Road Safety Assistant”
+Para 1, line 7
+9 General Information at Personnel applicant
+Page No. 5:
+Para 4, line 1
+10 General Information at The personnel shall apply as an The applicant shall apply as an
+Page No. 5: individual as a Sr. Road Safety Auditor individual as a “Sr. Road Safety
+Para 3, line 1 or Road Safety Auditor & Team Leader” or as a “Road
+Assistant. Safety Assistant”.
+11 General Information at Personnel applicant
+Page No. 5:
+Para 5, line 3
+12 General Information at of Personnel applicant
+Page No. 6:
+Para 7, 8, 9 & 10,
+line 1
+1
+
+--- Page 2 ---
+Sr.no. Refer In place of Read As
+13 General Information at of firm applicant
+Page No. 6:
+Para 10(c), line 2
+14 General Information at Will have the right to include a provision Deleted
+Page No. 6: Para10(d), requiring consultants to permit the
+line 1 NHAI to inspect their accounts and
+records relating to the performance of
+the contract and to have them audited
+by authorized representatives of NHAI.
+15 General Information at / e-tender portal, Deleted
+Page No. 7:
+Para 12, line 4
+16 General Information at included attached
+Page No. 7:
+Para 14 (c), line 4
+17 General Information at online only on e-tender portal by post/ Courier/ By Hand on or before
+Page No. 9: https://etenders.gov.in (as per NHAI scheduled date of submission and
+Para 15.2 (D) line 1 circular no. 9.1.11/2019 dated extension thereof
+06.06.2019).
+18 General Information at 1 no. Sr Road Safety Auditor and 1 no. 1 no. “Sr Road Safety Auditor & Team
+Page No. 9: Road Safety Assistant Leader” and 1 no. “Road Safety
+Para 15.2 (E) line 3 & 5 Assistant”.
+19 General Information at It is received by the Application Due It is received on or before the Due Date
+Page No. 10: Date including any extension thereof; of submission of application including
+Para 15.3 (a), line 1 any extension thereof;
+20 General Information at it is accompanied by the application fee The copy of online payment receipt
+Page No. 10: receipt; mentioning reference number/UTR
+Para 15.3 (b), line 1 number shall be submitted along with
+the application form.
+21 General Information at 15 days Road Safety Audit Training 15 days Road Safety Audit Training
+Page No. 10: Certificate from IIT/NIT/CRRI/NATPAC Certificate from IIT/NIT/CRRI/NATPAC
+Para 15.3 (e), line 1 (National Transportation Planning and (National Transportation Planning and
+Research Centre, Kerala) for the Research Centre, Kerala) prior to
+applicants applying for each post prior 12.01.2023 or IAHE.
+to 12.01.2023 or IAHE; Further, Road Safety and Safety Audit
+certification course from 18.11.2024 to
+03.12.2024 conducted by CSIR-CRRI
+and certificate issued by them shall be
+recognized for NHs works.
+22 General Information at Personnel applicant
+Page No. 10:
+Para 15.3 (g), line 1
+23 General Information at It contains NOC from their current It contains NOC from his/her current
+Page No. 10: Employer/Firm for submitting their Employer/Firm for submitting his/her
+Para 15.3 (h), line 1 application. application.
+24 General Information at It contains undertaking from their It contains undertaking from their
+Page No. 10: Employer/Firm that applicant will be Employer/Firm that applicant will be
+Para 15.3 (i), line 1 available for conducting Road Safety available for
+Assignment whenever assigned by conducting Road Safety Audit
+NHAI. Assignment, whenever assigned by
+NHAI.
+25 General Information page 15 days Road Safety Audit 15 days Road Safety Audit Training
+no 10 & 11: para 16, Training Certificate from Certificate from IIT/NIT/CRRI/NATPAC
+Evolution criteria (i) IIT/NIT/CRRI/NATPAC prior to (National Transportation Planning and
+Qualification and 12.01.2023 or IAHE Research Centre, Kerala) prior to
+competence of applicant If yes Pass 12.01.2023 or IAHE. Further, Road
+If No Fail Safety and Safety Audit certification
+(A) “Sr. Road Safety
+course from 18.11.2024 to 03.12.2024
+Auditor-cum-Team
+conducted by CSIR-CRRI and certificate
+Leader” and “Road Safety
+issued by them shall be recognized for
+Assistant” Sl no. 2,
+NHs works.
+If yes Pass
+If No Fail
+2
+
+--- Page 3 ---
+Sr.no. Refer In place of Read As
+26 Term of reference at Page Final shortlisting for empanelment shall Final shortlisting for empanelment
+No 12: line 9 be made based on may be made based on
+interaction/interview of candidates interaction/interview of candidates
+possessing the requisite Qualification possessing the requisite Qualification
+and Experience. and Experience.
+27 Term of reference at Page 15 days Road Safety Audit Training 15 days Road Safety Audit Training
+No 12: Certificate from IIT/NIT/CRRI/NATPAC Certificate from IIT/NIT/CRRI/NATPAC
+Para 2.1 (iii) & 2.2 (National Transportation Planning and (National Transportation Planning and
+Research Centre, Kerala) prior to Research Centre, Kerala) prior to
+12.01.2023 or IAHE; 12.01.2023 or IAHE. Further, Road
+Safety and Safety Audit certification
+course from 18.11.2024 to 03.12.2024
+conducted by CSIR-CRRI and certificate
+issued by them shall be recognized for
+NHs works.
+28 Submission of Proposal proposal application
+for Empanelment, h page
+13, line 3
+29 Test of Responsiveness at n) it is received by the Application Due a) It is received on or before the Due
+Page No. 14: Para 4.0, line Date including any extension thereof; Date of submission of application
+4 o) it is accompanied by the application including any extension thereof;
+fee receipt; b) The copy of online payment receipt
+p) it contains copies of applicant’s CV as mentioning reference number/UTR
+extracted from INFRACON portal; number shall be submitted along with
+q) CVs extracted from INFRACON portal the application form.
+must be “VERIFIED” on or before date c) it contains copies of applicant’s CV as
+of submission of applications (Copy of extracted from INFRACON portal;
+print out from INFRACON portal must d) CVs extracted from INFRACON
+be enclosed along with the portal must be “VERIFIED” on or before
+applications). date of submission of application (Copy
+r) 15 days Road Safety Audit Training of print out from INFRACON portal
+Certificate from IIT/NIT/CRRI/NATPAC must be enclosed along with the
+(National Transportation Planning and application).
+Research Centre, Kerala) for both Key e) 15 days Road Safety Audit Training
+personnel prior to 12.01.2023 or IAHE; Certificate from IIT/NIT/CRRI/NATPAC
+s) it contains CVs of applicants for Sr. (National Transportation Planning and
+Road Safety Auditor & Road Safety Research Centre, Kerala) prior to
+Assistant duly signed by the Applicant; 12.01.2023 or IAHE. Further, Road
+t) it contains the proof of age of Safety and Safety Audit certification
+personnel are below the age as course from 18.11.2024 to 03.12.2024
+indicated in essential qualifications; conducted by CSIR-CRRI and certificate
+u) It contains NOC from their current issued by them shall be recognized for
+Employer/Firm for submitting their NHs works.
+application. f) it contains CV of applicant for “Sr.
+v) It contains undertaking from their Road Safety Auditor & Team Leader”
+Employer/Firm that applicant will be and “Road Safety Assistant”. duly
+available for conducting Road Safety signed by the Applicant;
+Assignment whenever assigned by g) it contains the proof of age of
+NHAI. applicant are below the age as
+w) All the pages of the Application are indicated in essential qualifications;
+signed by the applicant, & serially h) It contains NOC from his/her current
+numbered; Employer/Firm for submitting his/her
+x) it contains all the information application.
+(complete in all respects) as requested i) It contains undertaking from his/her
+in this RFP (in formats same as those Employer/Firm that applicant will be
+specified); available for conducting Road Safety
+y) it does not contain any condition or Audit Assignment, whenever assigned
+qualification; and by NHAI.
+z) it is not non-responsive in terms j) All the pages of the Application are
+hereof signed by the applicant & serially
+numbered; k) it contains all the
+information (complete in all respects)
+as requested in this RFP (In formats
+same as those specified); l) it does not
+contain any condition or qualification;
+and m) it is not non-responsive in
+terms hereof.
+3
+
+--- Page 4 ---
+Sr.no. Refer In place of Read As
+30 Evaluation Criteria at Table under Serial No 5 a) for Sr. Road Should be Read as per enclosed
+Page No. 14 & 15 Safety Auditor & Team Leader Annexure-A.
+31 Footnote: Page 15, * It must be noted that the maximum * It must be noted that the maximum
+age limit of Sr. Road Safety Auditor- age limit of “Sr. Road Safety Auditor &
+cumteam Leader on the bid due date of Team Leader” on the due date of
+empanelment process as well as on the submission for empanelment is 70
+date of safety consultancy years.
+work/assignment of any contract
+package is 70 years.
+32 Evaluation Criteria at Table under Serial No 5 b) for Road Should be Read as per enclosed
+Page No.16 Safety Assistant Annexure-B.
+33 Note: Page 16 It must be noted that the maximum age It must be noted that the maximum
+limit of Road Safety Assistant on the bid age limit of “Road Safety Assistant” on
+due date of empanelment process as the due date of submission for
+well as on the date of safety empanelment is 35 years.
+consultancy work/assignment of any Note: Total Professional Experience of
+contract package is 35 years. CV shall be considered from the date of
+Note: Total Professional Experience of first
+CVs shall be considered from the date employment of Applicant up to the
+of first date as per Employment Record.
+employment of Applicant up to the date However, in case date of acquiring
+as per Employment Record. However, minimum educational qualification is
+in case date of acquiring minimum after the date of first employment of
+educational qualification is after the key personnel, in such cases, total
+date of first employment of key Professional Experience of CV
+personnel, in such cases, total shall be considered from the date of
+Professional Experience of CVs acquiring minimum educational
+shall be considered from the date of qualification.
+acquiring minimum educational
+qualification.
+34 Evaluation Criteria at It is mandatory for all key personnel to It is mandatory for all applicants to
+Page No. 17: have completed at least 15 days Road have completed at least 15 days Road
+Para 5 (c) Safety Audit Training Certificate from Safety Audit Training Certificate from
+IIT/NIT/CRRI/NATPAC (National IIT/NIT/CRRI/NATPAC (National
+Transportation Planning and Research Transportation Planning and Research
+Centre, Kerala) prior to 12.01.2023 or Centre, Kerala) prior to 12.01.2023 or
+IAHE. The CV of the proposed Applicant IAHE. Further, Road Safety and Safety
+not having completed minimum 15 Audit certification course from
+days certification course shall not be 18.11.2024 to 03.12.2024 conducted
+evaluated. by CSIR-CRRI and certificate issued by
+them shall be recognized for NHs
+works.
+35 Evaluation Criteria at Sr Road Safety Auditor & Team Leader “Sr Road Safety Auditor & Team
+Page No. 17: and Road safety Leader” and “Road safety
+Para 1.4, line 1 Assistant Assistant”
+36 Evaluation Criteria at ii. The applicant shall carry out self- Deleted
+Page No. 17: evaluation of their application with due
+Para 5 c) ii cross reference to the above-
+mentioned criteria and submit the
+same along with the application.
+37 Evaluation Criteria at Sr. Road Safety Auditor & Road Safety “Sr Road Safety Auditor & Team
+Page No. 18: Assistant Leader” and “Road safety
+Para 1.15, line 1 Assistant”
+38 During DPR Stage at Page Road Safety Auditor “Sr Road Safety Auditor & Team
+No. 19: Leader” and “Road safety
+Para 3.5, line 1 & 2 Assistant”
+39 During DPR Stage at Page Safety Audits shall be conducted on Safety Audit report shall be uploaded
+No. 19: Datalake 3.0/ MobileApp. on Datalake 3.0.
+Para 3.6, line 1
+40 During Development Safety Auditor “Sr Road Safety Auditor & Team
+Period of Construction Leader” and “Road safety
+Stage page 19: para 4.2, Assistant”
+line 2 & 9
+4
+
+--- Page 5 ---
+Sr.no. Refer In place of Read As
+41 Road Safety Audit at Page Road Safety Auditor “Sr Road Safety Auditor & Team
+No. 20: Leader” and “Road safety
+Para 4.7, line 1 Assistant”
+42 Road Safety Audit at Page conducted on Datalake 3.0/ MobileApp. uploaded on Datalake 3.0
+No. 20:
+Para 4.8, line 1
+43 During Construction Safety Auditor “Sr Road Safety Auditor & Team
+Stage Page No. 21: Leader” and “Road safety
+Para 5.3, 5.4, 5.5 and 5.6, Assistant”
+line 2
+44 During Construction Attachment A of the TOR Appendix A of the RFP.
+Stage Page No. 21:
+Para 5.7, line 2
+45 Maintenance and Safety Auditor “Sr Road Safety Auditor & Team
+Operation Period: Page Leader” and “Road safety
+22, Para 6.1, 6.4 & 6.5 Assistant”
+46 Maintenance and All Safety Audits shall be conducted on All Safety Audit shall be conducted on
+Operation Period: Page Datalake 3.0/ MobileApp Datalake 3.0.
+22, Para 6.6, line
+47 Annexure-I of RFP Page CURRICULUM VITAE (CV) OF KEY CURRICULUM VITAE (CV) OF
+No. 27: PERSONNEL APPLICANT
+48 Annexure-I of RFP Page Personnel applicant
+No. 28: Note I & v
+49 Annexure-I of RFP Page vii) Each page of the CV shall be signed vi) Each page of the CV shall be signed
+No. 28: Note, vii & viii in blue ink by personnel before by applicant before submitting the
+submitting. application.
+viii) The NHAI may verify the details vii) The NHAI may verify the details
+mentioned in CV by writing to the mentioned in CV by writing to the
+Employer indicated in the CV. The Employer indicated in the CV. The
+personnel shall be liable for debarment applicant shall be liable for debarment
+for any incorrect for any incorrect information.
+information.
+50 Annexure-III. Page No. 30: TOR RFP
+line 4 & 9 as “Sr. Road Safety Auditor & Team as “Sr. Road Safety Auditor & Team
+Leader” and “Road Safety Assistant Leader” and “Road Safety Assistant.
+General Manager (Tech.)
+Road Safety Division
+5
+
+--- Page 6 ---
+Annexure-A
+Evaluation Criteria at Page No. 14 & 15: Table under Serial No 5 a) for Sr. Road Safety Auditor & Team
+Leader should be Read as under:
+(A) Sr. Road Safety Auditor & Team Leader
+Sl. Sr. Road Safety Auditor & Team Leader Evaluat
+No ion
+Yes/No
+1. Graduate in Civil Engineering from Recognized University
+If yes Pass
+If No Fail
+2. 15 days Road Safety Audit Training Certificate from IIT/NIT/CRRI/NATPAC
+(National Transportation Planning and Research Centre, Kerala) prior to
+12.01.2023 or IAHE. Further, Road Safety and Safety Audit certification
+course from 18.11.2024 to 03.12.2024 conducted by CSIR-CRRI and
+certificate issued by them shall be recognized for NHs works.
+If yes Pass
+If No Fail
+3 At least 10years of experience (from the month of graduation) in
+highway sector in senior position associated with preparation
+of DPR / Supervision / Construction / Safety Audit / Work Zone
+Safety / Traffic Planning of 2/4/6/8 lane Expressway/National
+Highway/State Highway Projects
+If yes Pass
+If No Fail
+4 Have a minimum of three years practical experience in Road
+Safety Audit at DPR/Construction/Operation & Maintenance
+stage …..Pass
+If no such experience of Three Years ……. Fail
+6
+
+--- Page 7 ---
+Sl. Sr. Road Safety Auditor-cum-Team Leader
+No
+5 Experience in at-least Five Road Safety Audits.
+If at least Five such project…………..Pass
+If no such experience of Five such projects … .Fail
+6 Experience in Three Safety Audits at design stage
+If at least Three such project …………….Pass
+If no such experience of Three such projects ……..Fail
+7. The age as on the bid due date of this empanelment shall not
+be more than 70 years. *
+If age < 70 years Pass
+If age > 70 years Fail
+* It must be noted that the maximum age limit of “Sr. Road Safety Auditor & Team Leader” on the due date
+for submission of empanelment application is 70 years.
+7
+
+--- Page 8 ---
+Annexure-B
+Evaluation Criteria at Page No.16: Table under Serial No 5 b) for Road Safety Assistant should be Read as
+Sr. No Road Safety Assistant Evaluation
+Yes/No
+1 Graduate in Civil Engineering from Recognized
+University
+If yes Pass
+If No Fail
+2 15 days Road Safety Audit Training Certificate from IIT/NIT/CRRI/NATPAC
+(National Transportation Planning and Research Centre, Kerala) prior to
+12.01.2023 or IAHE. Further, Road Safety and Safety Audit certification
+course from 18.11.2024 to 03.12.2024 conducted by CSIR-CRRI and
+certificate issued by them shall be recognized for NHs works.
+If yes Pass
+If No Fail
+3 At least 2 years of Experience (from the month of graduation) in
+highway sector in senior position associated with preparation
+of DPR / Supervision / Construction / Safety Audit / Work Zone
+Safety / Traffic Planning of 2/4/6/8 lane Expressway/National
+Highway/State Highway Projects
+If yes Pass
+If No Fail
+4 The age as on the bid due date of this empanelment
+shall not be more than 35 years.
+If age < 35 years Pass
+If age > 35 years Fail
+* It must be noted that the maximum age limit of “Road Safety Assistant” on the due date for submission
+of the empanelment application is 35 years.
+8
+
+--- Page 9 ---
+Annexure-C
+Abbreviations
+BOQ Bill of Quantities
+CV Curriculum Vitae
+DPR Detailed Project Report
+EPC Engineering Procurement & Construction
+GST Goods & Service Tax
+HAM Hybrid Annuity Mode
+IIT Indian Institute of Technology
+IAHE Indian Academy of Highway Engineers
+IRC Indian Roads Congress
+LOA Letter of Award
+MoRT&H Ministry of Road Transport and Highways
+NIT National Institute of Technology
+NHs National Highways
+NHAI National Highways Authority of India
+NHIDCL National Highways and Infrastructure Development
+Corporation Limited
+NOC No Objection Certificate
+O&M Operation & Maintenance
+OMT Operation Maintenance and Transfer
+PD Project Director
+PIU Project Implementation Unit
+PPP Public Private Partnership
+RO Regional Officer
+RFP Request for Proposal
+Sr Senior
+TOR Term Of Reference
+TOT Toll Operate and Transfer
+TMP Traffic Management Plan
+TCP Traffic Control Plan
+TOT Toll Operate and Transfer
+UTR Unique Transaction Reference
+9
+================================================================================
+DOCUMENT: Corrigendum-2_14.pdf  (1 pages)
+================================================================================
+
+--- Page 1 ---
+NHAI/RSD/Empanelment/(E- 304032) 06.04.2026
+Corrigendum-2
+Sub.: Empanelment of Independent “Sr. Road Safety Auditor & Team Leader” and “Road
+Safety Assistant” - Corrigendum-2 Reg.
+The following amendment has been issued in the RFP for Notice for Empanelment of
+Independent “Sr. Road Safety Auditor & Team Leader” and “Road Safety Assistant” uploaded
+on NHAI website on dated 09.03.2026 and subsequent Corrigendum -1, which have been
+uploaded on 27.03.2026.
+Sr. no Refer In place of Read As
+1 Notice for Deadline 07.04.2026 Deadline 15.04.2026
+Empanelment for up to 18:00 for up to 18:00
+submission submission Hrs submission Hrs
+Schedule at of of
+Page No. 4: Application Application
+Para 11 (Due date (Due date
+and Time) and Time)
+General Manager (Tech.)
+Road Safety Division
+================================================================================
+DOCUMENT: Corrigendum-3_7.pdf  (1 pages)
+================================================================================
+
+--- Page 1 ---
+NHAI/RSD/Empanelment/(E- 304032) 13.04.2026
+Corrigendum-3
+Sub.: Empanelment of Independent “Sr. Road Safety Auditor & Team Leader” and “Road
+Safety Assistant” - Corrigendum-3 Reg.
+The following amendment has been issued in the RFP for Notice for Empanelment of
+Independent “Sr. Road Safety Auditor & Team Leader” and “Road Safety Assistant” uploaded
+on NHAI website on dated 09.03.2026 subsequent Corrigendum -1, which have been
+uploaded on 27.03.2026 and Corrigendum-2 uploaded on 06.04.2026.
+Sr. no Refer In place of Read As
+1 Notice for Deadline 15.04.2026 Deadline 29.04.2026
+Empanelment for up to 18:00 for up to 18:00
+submission submission Hrs submission Hrs
+Schedule at of of
+Page No. 4: Application Application
+Para 11 (Due date (Due date
+and Time) and Time)
+General Manager (Tech.)
+Road Safety Division
+================================================================================
+DOCUMENT: Corrigendum-4_3.pdf  (1 pages)
+================================================================================
+
+--- Page 1 ---
+NHAI/RSD/Empanelment/(E- 304032) 28.04.2026
+Corrigendum-4
+Sub.: Empanelment of Independent “Sr. Road Safety Auditor & Team Leader” and “Road
+Safety Assistant” - Corrigendum-4 Reg.
+The following amendment has been issued in the RFP for Notice for Empanelment of
+Independent “Sr. Road Safety Auditor & Team Leader” and “Road Safety Assistant” uploaded
+on NHAI website on dated 09.03.2026 subsequent Corrigendum -1, which have been
+uploaded on 27.03.2026, Corrigendum-2 uploaded on 06.04.2026 and Corrigendum-3
+uploaded on 13.04.2026.
+Sr. no Refer In place of Read As
+1 Notice for Deadline 29.04.2026 Deadline 07.05.2026
+Empanelment for up to 18:00 for up to 18:00
+submission submission Hrs submission Hrs
+Schedule at of of
+Page No. 4: Application Application
+Para 11 (Due date (Due date
+and Time) and Time)
+General Manager (Tech.)
+Road Safety Division
+================================================================================
+DOCUMENT: Corrigendum-5_3.pdf  (10 pages)
+================================================================================
+
+--- Page 1 ---
+NHAI/RSD/Empanelment/(E- 304032) 04.05.2026
+Corrigendum-5
+Sub.: Empanelment of Independent “Sr. Road Safety Auditor & Team Leader” and “Road
+Safety Assistant” - Corrigendum-5 Reg.
+The following amendment has been issued in the RFP for Notice for Empanelment of
+Independent “Sr. Road Safety Auditor & Team Leader” and “Road Safety Assistant” uploaded on
+NHAI website on dated 09.03.2026. Subsequent Corrigendum -1, which have been uploaded on
+27.03.2026, Corrigendum-2 uploaded on 06.04.2026, Corrigendum-3 uploaded on 13.04.2026 and
+Corrigendum-4 uploaded on 28.04.2026.
+Sr. Refer In place of Read As
+no
+1 Notice for Deadline for 07.05.2026 up Deadline 13.05.2026 up
+Empanelment submission of to 18:00 Hrs for to 18:00 Hrs
+submission Application submission of
+Schedule at Page (Due date and Application
+No. 4: Time) (Due date and
+Para 11 Time)
+2 Notice for of the project highway in accordance as and when directed by NHAI for any
+Empanelment with the safety requirements set forth stretch of the Highway
+Para 1 in Schedule – L of the Model Concession
+at Page No. 3: Agreement (MCA) of the public private
+partnership (PPP)/ Hybrid Annuity
+Model (HAM) projects on Design, Build,
+Finance, Operate and Transfer (DBFOT)
+basis and Schedule – H of the Model
+Concession Agreement (MCA) of the
+Operation & Maintenance (OMT)/TOT
+projects and Clause 10.1 of model EPC
+Agreement along with any other
+provisions as stipulated in the above-
+mentioned agreements.
+3 General of the project highway at various stages like as and when directed by NHAI for any
+Information, page Detailed Project Report Stage, stretch of the Highway
+No 5, para 1 Development/Design Stage, Construction
+stage, Pre-opening stage and Operation &
+Maintenance stage in accordance with the
+safety requirements set forth in Schedule – L
+of the Model Concession Agreement (MCA) of
+the PPP/HAM projects on Design, Build,
+Finance, Operate and Transfer (DBFOT) basis
+and Schedule – H of the Model Concession
+Agreement (MCA) of the Operation and
+Maintenance (OMT)/ TOT projects and
+Clause 10.1 of EPC Agreement, O&M
+Agreement & Item Rate contracts along with
+any other provisions as stipulated in the
+relevant agreements as per the roster to be
+prepared by NHAI after Empanelment.
+
+--- Page 2 ---
+4 General The PPP projects on DBFOT / HAM/ EPC basis Deleted
+Information, page basically constitute up-gradation involving
+No 5, para 2 construction of 2/4/6-lane highway including
+bridges and tunnels; widening and
+rehabilitation of bridges and culverts;
+construction of high embankment/ elevated
+structures/
+ROBs/RUBs/VUPs/LVUPs/PUPs/CUPs,
+wayside amenities etc. along the existing
+highways including provision of realignment
+and bypasses. Similarly, OMT projects
+constitute operation and maintenance of
+2/4/6 – lane highway including bridges and
+tunnels. The construction works under such
+projects involve use of modern equipment
+and construction practices / techniques. As
+per the terms and conditions of the
+Concession Agreement(s), the
+Concessionaires are required to develop,
+implement and administer a surveillance and
+safety programme for providing a safe
+environment on or around the Project
+Highway and or comply with the safety
+requirements set forth in Schedule – L of
+DBFOT/ HAM Agreements and Clause 10.1.5
+& 10.1.6 of EPC Agreement and Schedule – H
+of OMT/ TOT Agreement in development,
+construction, operation &maintenance
+phases of a Project. However, the safety
+audit work shall be carried out as per
+IRC/NHAI/MoRT&H guidelines.
+5 General
+Only empanelled applicants shall be Only empanelled applicant shall be
+Information, page
+8, para-14, item h) allotted the work as per the roster allotted the safety audit assignment
+prepared by NHAI and pursuant to the or other road safety related works
+submission of requisite documents as including visits on the requirement
+annexed with the RFP. The payment of basis as per the roster prepared by
+services of Safety Audit to be allotted NHAI and pursuant to the submission
+will be on the basis of fixed rates. of requisite documents as annexed
+(Excluding GST) as per payment with the RFP. The payment of
+Schedule given in the RFP. services of Safety Audit/ or other
+safety analysis work report allotted
+to safety audit team will be made by
+the respective PIU on the basis of
+fixed rates. (Excluding GST) as per
+payment Schedule given in the RFP.
+The other road safety works means
+critical analysis of high accidents
+stretches, road safety study for
+specific accident/ black spots, and
+any other works explicitly listed in
+the Letter of Award. The payment to
+carry out the other road safety
+works shall be same as mentioned
+for conducting Road Safety Audit.
+6 General The NHAI reserves the right to reject The NHAI reserves the right to reject
+Information, page any application without assigning any any application without assigning
+9, para-15.2, item reasons thereof. After evaluation and any reasons thereof. After
+E) the approval of Competent Authority a evaluation and the approval of
+panel of 2 Members having 1 no. “Sr Competent Authority a panel of two
+Road Safety Auditor & Team Leader” Members having one no. “Sr Road
+and 1 no. “Road Safety Assistant”. will Safety Auditor & Team Leader” and
+be formed who will be allotted the one no. “Road Safety Assistant” will
+work on the basis of the roster prepared be formed, who will carry out the
+by random sampling for appointment of road safety audit or other road
+1 no. “Sr Road Safety Auditor & Team safety related works assignment
+Leader” and 1 no. “Road Safety (each visit) for any project stretch
+Assistant” for BOT (DBFOT) /HAM/ EPC/ on the basis of the roster prepared
+
+--- Page 3 ---
+OMT/TOT/O&M/Item Rate projects of by random sampling for
+NHAI as and when required. appointment of one no. “Sr Road
+Safety Auditor & Team Leader” and
+one no. “Road Safety Assistant” as
+and when directed by NHAI. The
+Authority reserved the right to
+change the panel of two members at
+any time.
+7 Term of The NHAI reserves the right to reject any or The NHAI reserves the right to reject any
+Reference, page all applications without assigning any or all applications without assigning any
+13, para i reasons thereof. After evaluation, a panel reasons thereof. After evaluation, a
+of applicants will be formed who will be panel of applicants will be formed, who
+allotted the work on the basis of the roster will carry out the road safety audit or
+prepared by random sampling for other road safety related works
+appointment of Independent Safety team for assignment (each visit) for any project
+BOT (DBFOT) /HAM/ EPC/ stretch on the basis of the roster
+OMT/TOT/O&M/Item Rate projects of NHAI prepared by random sampling for
+as and when necessary. Conducting safety audit as below.
+ Critical analysis of project
+stretches with high
+accidents/fatalities on NHs.
+ Road Safety Audit/study for
+stretches/accidents spots as
+directed by the Authority.
+ Any other work related to Road
+Safety.
+8 Term of National Highways Authority of India
+National Highways Authority of India (NHAI)
+Reference, page (NHAI) has mandate for development of
+has mandate for development of National
+17, para 1.1 National Highways entrusted to it by
+Highways entrusted to it by Ministry of
+Ministry of Road Transport & Highways.
+Road Transport & Highways. As part of this
+The Road Safety Audit or other road
+endeavour, the Authority has taken up safety related works shall be carried out
+development of some of the highway for the project stretches on requirement
+projects implemented under basis as directed by the Authority.
+PPP/HAM/EPC/OMT/TOT/ITEM
+Rate/InviT, etc.
+9 Term of Deleted
+The Agreements also envisage that NHAI
+Reference, page
+shall appoint an experienced and qualified
+17, para 1.3
+Civil Engineer as a “Safety Auditor” for
+carrying out safety audit of the Project
+Highway in accordance with the safety
+requirements set forth in Schedules/
+Clauses for the aforesaid Phases of Project.
+10 Term of Road safety audit assignment mentioned
+NHAI intends to invite independent “Sr Road
+Reference, page at para 3 (i) of Term of Reference.
+Safety Auditor & Team Leader” and “Road safety
+17, para 1.4
+Assistant” for carrying out safety audit of the
+project highway in accordance with the
+safety requirement set forth in
+IRC/NHAI/MoRT&H guidelines of projects
+of various modes such as
+PPP/HAM/EPC/OMT/TOT/ITEM Rate/InviT
+etc.
+11 Term of Reference Deleted
+The Model Concession Agreements
+page 17, para 1.2
+(MCA)/ Contract documents stipulate
+that the Concessionaire/Contractor
+shall develop, implement and
+administer a surveillance and safety
+programme for providing a safe
+environment on or about the Project
+Highways and/or shall comply with the
+
+--- Page 4 ---
+safety requirements set forth in
+Schedules/ Clauses of the
+Concession/Contract Agreement in
+DPR, Development, Construction and
+Operation & Maintenance Phases of
+the Project.
+12 Term of PD, PIU to send request for appointment of Deleted
+Reference, page Safety Audit Team with complete project
+18, para 1.9 details on dedicated email id
+roster_roadsafety@nhai.org with copy to
+concerned RO.
+13 Term of Requests received up to last date of previous Deleted
+Reference, page months will be considered for appointment
+18, para 1.10 of Safety Audit Team on First come First
+Basis from the roster of Sr. Road Safety
+Auditor & Road Safety Assistant.
+14 Term of Letter for intent for project allotment on Letter for intent for each assignment for
+Reference, page email for safety audit shall be issued by Road safety audit and other safety related
+18, para 1.11 Safety Division, HQ. works shall be issued through email by
+Road Safety Division, HQ.
+As per the Roster system team members
+will be allotted work assignment for any
+project stretch. In case, additional visit
+to the same project stretch are required
+to carry out the work, new team will be
+assigned for subsequent visit.
+15 Term of Letter to proceed for project safety audit Letter to proceed for safety audit
+Reference, page shall be issued on email by Road Safety assignment and other road safety works
+18, para 1.13 Division, HQ with a copy to concerned RO & shall be issued through email by Road
+PD. Safety Division, HQ with a copy to
+concerned RO & PD.
+16 Term of Project Report shall be submitted on Data Road Safety Audit Report and Crash
+Reference, page Lake 3.0 and one hard copy each to PIU and analysis report shall be submitted on Data
+18, para 1.14 RO. Lake portal and one hard copy each to
+PD, PIU, RO and Road Safety Division, HQ.
+17 Term of Next project will be assigned on receipt of The Road Safety assignment, for a
+Reference, page completion certificate from PIU. project stretch including site visit may
+18, para 1.17 vary for subsequent assignment/visit as
+per the Roster system will be allotted on
+receipt of the previous road safety
+assignment completion certificate from
+concerned PD, PIU.
+18 Term of It may be noted that the applicant shall be It may be noted that the applicant shall
+Reference, page required to ensure timely completion of the be required to ensure timely completion
+18, para 1.18 safety audit assignment of the project of the safety audit assignment as per TOR
+awarded in an effective manner strictly as of the project stretch awarded in an
+per RFP. The performance appraisal of the effective manner strictly as per RFP. The
+applicant shall be carried out by the Road performance appraisal of the applicant
+Safety Division based on the safety audit shall be carried out by the Road Safety
+report submitted and the comments of Division based on the safety audit and
+concerned Regional Officer and Project other road safety related works and other
+Director, NHAI. The applicant shall be liable road safety related issues report
+for cancellation of empanelment and submitted, including the comments of
+debarment in the event of default concerned Regional Officer and Project
+attributable to them for non-completion Director, NHAI. The applicant shall be
+/poor performance of their services for a liable for cancellation of empanelment
+period up to 2 years for undertaking any and debarment in the event of default
+assignment from MoRTH, NHAI and NHAIDCL. attributable to him for non-completion
+/poor performance of his services for a
+period up to 2 years for undertaking any
+assignment from MoRTH, NHAI and
+NHIDCL.
+19 3. During DPR Safety Audit report shall be uploaded on DPR and Crash Analysis cum Mitigation
+stage, page 19, Datalake 3.0. All Safety Audit Reports, Reports safety audit shall be conducted
+para 3.6 Crash Analysis cum Mitigation Reports and by Data Lake portal /NHAIONE Mobile App
+
+--- Page 5 ---
+MoM shall also be uploaded on NHAI data and uploaded on NHAI Data Lake portal or
+lake portal or any other electronic media any other electronic media as prescribed
+as prescribed by the Authority. by the Authority and deliverables as per
+TOR. A hard copy of the report shall be
+submitted to PD, RO and Road Safety
+Division
+20 Page 20, para 4.8
+Safety Audits shall be uploaded on Road Safety Audit report shall be
+Datalake 3.0. All Safety Audit Reports, uploaded on Datalake portal Crash
+Crash Analysis cum Mitigation Reports and Analysis cum Mitigation Reports shall
+MoM shall also be uploaded on NHAI data also be uploaded on NHAI data lake
+lake portal or any other electronic media portal or any other electronic media as
+as prescribed by the Authority. prescribed by the Authority. A hard
+copy of the reports shall be submitted
+to PD, RO and Road Safety Division
+21 Page 22, para 5.9 All Safety Audits shall be conducted by Date Construction stage Safety Audits shall be
+Lake 3.0/NHAIONE Mobile App. All Road conducted by Data Lake portal/NHAIONE
+Safety Audit Report (Construction Stage), Mobile App and uploaded on NHAI data
+Preopening/Completion Audit Report, Crash lake portal or any other electronic media
+Analysis cum Mitigation Report, Safety Audit as prescribed by the Authority and
+Compliance Reports and MoM shall also be deliverables as per TOR. A hard copy of
+uploaded on NHAI data lake portal or any the report shall be submitted to PD, RO
+other electronic media as prescribed by the and Road Safety Division, HQ
+Authority.
+22 Page 22, para 6.4 The Safety Auditor shall submit Road The Safety Audit Team shall submit
+Safety Audit report (Operation & Road Safety Audit Report (Operation &
+Maintenance Stage), Crash Analysis cum Maintenance Stage), Crash Analysis cum
+Mitigation Report, to the Project Director Mitigation Report and deliverables as
+and, a copy to the concerned Regional per TOR, to the Project Director. A
+Officer. printed copy of the report shall be
+submitted to PD, RO and Road Safety
+Division, HQ .
+23 Page 22, para 6.6 All Safety Audits shall be conducted on All Safety Audits shall be conducted on
+Datalake 3.0/ MobileApp. All Safety Audit Datalake portal/ MobileApp. All Safety
+Reports, Crash Analysis cum Mitigation Audit Reports, Crash Analysis cum
+Reports, Safety Audit Compliance Reports Mitigation Reports, Safety Audit
+and MoM shall also be uploaded on NHAI Compliance Reports and other works as
+data lake portal or any other electronic per TOR shall also be uploaded on NHAI
+media as prescribed by the Authority. data lake portal or any other electronic
+media as prescribed by the Authority. A
+hard copy of the report shall be
+submitted to PD, RO and Road Safety
+Division, HQ.
+24 Deliverables and Payment Schedule Deliverables and Payment Schedule
+Page 23 & 24
+Annexure-VII
+Deliverables and
+Payment
+Schedule, para 8
+25 Letter Of Annexure-IV ANNEXURE-IV
+Award (LOA), No. L e t t e r o f A w ard
+Annexure- Date:
+IV, page- 31
+No.: NHAI/RSD/2026/(e file
+No.)/
+Letter Of Award (LOA)
+Date: ……………
+To To,
+Name, Address Shri…………………….
+Email………………….
+Sub: Road Safety Audit work for
+Mob/Ph………………
+…………………(Project Name). -Acceptance
+Subject: Road Safety Audit of NH
+for appointment as “Sr. Road Safety Auditor &
+Team Leader” and “Road Safety Assistant”.
+Project Stretch
+………………………..
+
+--- Page 6 ---
+Sir / Madam, Ref : RFP for empanelment of
+This is to notify you that you as Sr. Road independent “Sr. Road
+Safety Auditor & Team Leader/ Road Safety Safety Auditor & Team
+Assistant have been appointed for execution of
+Leader” and “Road
+Road safety audit of the subject project as per the
+Safety Assistant” (Due
+roster prepared by NHAI, on the schedule rate as
+date 07.05.2026).
+mentioned in RFP for your empanelment, for
+conducting road safety audit for the aforesaid Sir,
+project. With reference to the
+2. You are requested to submit duly above, the Road Safety
+signed acceptance letter as per Annexure-III Audit/other road safety related
+within the 3 days period from the issue of this
+works of the NHAI project
+LOA.
+titled……………………………………………
+3. It is intimated that roster mechanism is
+……………………………………………………
+envisaged to award project wise safety audit.
+……………… is to be carried out.
+This issues with the approval of the 2 The following Road safety
+Competent Authority. Assistant will accompany as team
+member during the cited
+inspection: -
+(i) Sh……………………….
+Road Safety
+Assistant, Mob
+(______________)
+GM (Tech.), No……………….Email…
+Road Safety Division ……………….
+3 You are requested to
+interact with the team member
+Copy to: -
+and the Project Director well in
+1. The CGM
+advance for smooth coordination
+(Tech), Road
+Safety Division, during the visit. The Road Safety
+NHAI HQ Audit Report shall be submitted
+2. Concern to PD…………………, PIU…………………,
+Regional Officer, RO………………. and Road Safety
+NHAI
+Division, NHAI-HQ, including
+3. Concern Project
+uploading the said report on Data
+Director, NHAI
+Lake portal/App as per the
+stipulated terms of reference.
+4 The Payment for services
+will be made by the PIU after
+submission of the Report to PD,
+PIU, RO and Road Safety Division,
+NHAI-HQ and uploading the Road
+Safety Audit report/other Road
+Safety related works report on
+the Data Lake portal.
+5 For project-specific
+details, you may contact the PD,
+PIU ……………………………
+This issues with the approval
+of the Competent Authority.
+General Manager (Tech.)
+Road Safety Division
+Copy To:
+
+--- Page 7 ---
+i. Sh. …………………………………….
+Road Safety Assistant, Mob
+No……………,Email……………………
+Copy also to:
+i. PD,
+PIU……………………………
+…………… to facilitate
+inspection and provide
+relevant
+documents/records.
+ii. Datalake Team – For
+necessary action and
+facilitate uploading
+Road safety Audit
+report in Datalake
+portal.
+26 Letter To Annexure-VI Annexure-VI
+Proceed,
+Annexure-VI,
+File No F i l e N o
+page-33
+Dated: Dated:
+Letter To Proceed Letter To Proceed
+[Name of selected empanelled
+“Sr Road safety auditor & Team [Name of selected
+Leader” and “Road Safety empanelled “Sr Road safety
+Assistant”] auditor & Team Leader” and
+Address: “Road Safety Assistant”]
+Address:
+Sub: [project description]- Letter to
+Proceed - reg. Sub: [project description]- Letter to
+Proceed - reg.
+Ref.: (i)
+NHAI/RSA/ROSTER/APPOINTMENT/202 Ref.: (i)
+6/-- - E -office dated……….. NHAI/RSA/ROSTER/APPOINTMENT/2
+026/-- - E -office dated………..
+(i) LOA dated -----------.
+(ii) Your acceptance (i) LOA dated ---------
+letter dated…………… --.
+(ii) Your acceptance
+Sir/Madam, letter
+dated……………
+Consequent upon Letter of
+Award issued by this office and your Sir/Madam,
+acceptance letter under reference, you
+Consequent upon Letter of
+are hereby notified to commence the
+Award issued by this office and your
+services of Road Safety Audit within 7
+acceptance letter under reference,
+days from issue of this letter with
+you are hereby notified to commence
+intimation to the concerned RO/PD.
+the services of Road Safety Audit or
+
+--- Page 8 ---
+The safety audit report along other road safety related works
+with all enclosures such as drawings, within 7 days from issue of this letter
+BOQ etc. shall be uploaded on NHAI with intimation to the concerned
+Data Lake and one printed copy shall be RO/PD.
+submitted to the concerned PD. The safety audit report or
+It may be noted that the other road safety related works along
+applicant shall be required to ensure with all enclosures such as drawings,
+timely completion of the safety audit BOQ etc. shall be uploaded on NHAI
+assignment of the project awarded in an Data Lake portal and one hard copy
+effective manner strictly as per RFP. The shall be submitted to the concerned
+performance appraisal of the applicant PD, RO and Road Safety Division, HQ.
+shall be carried out by the Road Safety It may be noted that the
+Division based on the safety audit report applicant shall be required to ensure
+submitted and the comments of timely completion of the safety audit
+concerned Regional Officer and Project assignment of the allotted project
+Director, NHAI. The applicant shall be stretch or other road safety related
+liable for cancellation of empanelment works in an effective manner strictly
+and debarment in the event of default as per RFP. The performance
+attributable to them for non-completion appraisal of the applicant shall be
+/poor performance of their services for carried out by the Road Safety
+a period up to 2 years for undertaking Division based on the safety audit or
+any assignment from MoRTH, NHAI and other road safety related works
+NHAIDCL. report submitted, including the
+comments of concerned Regional
+GM(T) Officer and Project Director, NHAI.
+Road Safety Division The applicant shall be liable for
+cancellation of empanelment and
+Copy to: debarment in the event of default
+(i) CGM (T), Road Safety Cell,
+attributable to him/her for non-
+NHAI – HQ
+completion /poor performance of his
+(ii) Concerned PD-NHAI
+services for a period up to 2 years for
+(iii) Concern RO-NHAI
+undertaking any assignment from
+MoRTH, NHAI and NHIDCL.
+GM(T)
+Road Safety Division
+Copy to:
+(i) CGM (T), Road Safety Division,
+NHAI – HQ.
+(ii) Concerned PD-NHAI
+(iii) Concerned RO-NHAI
+27 RFP document NHAIDCL NHIDCL
+General Manager (Tech.)
+Road Safety Division
+
+--- Page 9 ---
+Annexure-VII
+8. Deliverables and Payment Schedule Page-1
+Fee Payable Schedule for Project Total Consultancy
+Length < 25 km Consultancy Fees for
+S. Report
+Fees for Project
+Sr. Road Road Safety Secretarial
+No Project Length
+Safety Assistant Assistance for
+Length < 25 greater than
+Auditor- report
+km 25 km
+cum-Team preparation
+Leader payable to Sr.
+Road Safety
+Auditor-cum-
+Team Leader
+1 Submission of Crash Analysis 4 days 4 days Rs 10,000 per Rs 1,30,000 Safety team
+and Road Safety Inspection (includes (includes report input will
+Report including, travel time, travel time, increase in
+site visit & site visit & days as
+i. Analysis of accident
+report report required on
+data with blackspot
+preparation) preparation) pro rata
+identification
+@ Rs 25,000 @ Rs 5,000 basis as
+including mapping
+per day per day follows: 4
+of chainage wise
+days x actual
+crashes on strip plan
+length in
+of NH.
+km/ 25 km
+ii. Development of and fee
+Short-Term/ Long payable will
+Term mitigation be
+measures calculated as
+follows: Rs
+iii. Cost Estimate and
+1,30,000 x
+BOQ of Short-term
+actual length
+measures
+in km / 25
+km and
+2 Carryout Road Safety Audit
+rounded up
+of DPR and furnish the
+Safety Audit Report
+3 Carryout Road Safety Audit
+during construction stage
+and furnish the Safety Audit
+Report
+4 Carryout Road Safety Audit
+during Operation &
+Maintenance stage and
+furnish the Safety Audit
+Report
+5 Conducting Safety workshop 2 days @ Rs 2 days @ Rs 10,000 per Rs 70,000 Rs 70,000
+25,000 per 5,000 per report
+day day
+
+--- Page 10 ---
+Page-2
+i. All travelling, lodging & boarding and local conveyance shall be reimbursed by NHAI on
+submission of proof of expenses as follows:
+a) Sr. Road Safety Auditor-cum-Team Leader equivalent to General Manger, NHAI
+b) Road Safety Assistant equivalent to Dy. Manager, NHAI
+ii. Sr. Road Safety Auditor-cum-Team Leader and Road Safety Assistant shall raise their
+invoices independently (invoice of Road Safety Assistant is duly verified by Team Leader)
+to the concerned PD, PIU on submission of report.
+iii. Fee payable shall be excluding GST. GST will be paid as appliable on submission of proof
+of GST deposition with concerned authorities.
+iv. Payments shall be made by PIU in Indian Rupees, no later than 45 days on submission of
+invoices Including submission of deliverables/report.
